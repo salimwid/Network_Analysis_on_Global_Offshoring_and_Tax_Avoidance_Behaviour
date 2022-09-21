@@ -1,0 +1,2841 @@
+node_start,node_end,weight
+Albania,Bahamas,4.0
+Algeria,British Virgin Islands,2.0
+Algeria,United Kingdom,2.0
+Algeria,United States,1.0
+Andorra,Bahamas,52.0
+Andorra,British Virgin Islands,82.0
+Andorra,Cayman Islands,2.0
+Andorra,Cook Islands,0.5
+Andorra,Costa Rica,6.0
+Andorra,Hong Kong,18.0
+Andorra,Ireland,1.0
+Andorra,Latvia,1.0
+Andorra,Nevada,48.0
+Andorra,Niue,24.0
+Andorra,Panama,558.0
+Andorra,Russia,2.0
+Andorra,Samoa,18.0
+Andorra,Seychelles,144.0
+Andorra,United Kingdom,2.0
+Andorra,Uruguay,30.0
+Angola,Bermuda,2.0
+Angola,British Virgin Islands,23.0
+Angola,China,1.0
+Antigua and Barbuda,Barbados,16.0
+Antigua and Barbuda,British Virgin Islands,16.5
+Antigua and Barbuda,Canada,1.0
+Antigua and Barbuda,Cayman Islands,2.0
+Antigua and Barbuda,China,4.0
+Antigua and Barbuda,Hong Kong,4.0
+Antigua and Barbuda,Ireland,3.0
+Antigua and Barbuda,Niue,4.0
+Antigua and Barbuda,Panama,30.0
+Antigua and Barbuda,Russia,1.0
+Antigua and Barbuda,Saint Kitts and Nevis,2.0
+Antigua and Barbuda,Samoa,1.5
+Antigua and Barbuda,Seychelles,6.0
+Antigua and Barbuda,United Kingdom,2.0
+Antigua and Barbuda,United States,1.0
+Argentina,Antigua and Barbuda,1.0
+Argentina,Bahamas,46.0
+Argentina,Barbados,2.0
+Argentina,Belarus,1.0
+Argentina,British Virgin Islands,189.0
+Argentina,Canada,1.0
+Argentina,Cayman Islands,6.0
+Argentina,Costa Rica,2.0
+Argentina,Hong Kong,19.0
+Argentina,Ireland,6.0
+Argentina,Nevada,8.0
+Argentina,New Zealand,2.0
+Argentina,Niue,4.0
+Argentina,Panama,294.0
+Argentina,Russia,5.0
+Argentina,Saint Kitts and Nevis,2.0
+Argentina,Seychelles,12.0
+Argentina,Switzerland,2.0
+Argentina,United Kingdom,8.0
+Argentina,United States,2.0
+Armenia,British Virgin Islands,8.0
+Armenia,China,1.0
+Armenia,Hong Kong,1.0
+Armenia,Panama,1.0
+Armenia,Russia,1.0
+Armenia,United Kingdom,4.0
+Armenia,United States,1.0
+Aruba,Barbados,2.0
+Aruba,British Anguilla,8.0
+Aruba,British Virgin Islands,38.0
+Aruba,Panama,8.0
+Australia,Austria,1.0
+Australia,Bahamas,4.0
+Australia,Barbados,4.0
+Australia,Belize,1.0
+Australia,Bermuda,84.0
+Australia,British Anguilla,2.0
+Australia,British Virgin Islands,646.5
+Australia,Canada,17.0
+Australia,Cayman Islands,15.0
+Australia,China,22.0
+Australia,Cook Islands,3.0
+Australia,Cyprus,31.0
+Australia,Czech Republic,1.0
+Australia,Germany,1.0
+Australia,Hong Kong,165.0
+Australia,Ireland,31.0
+Australia,Isle of Man,6.0
+Australia,Jersey,1.0
+Australia,Labuan,0.5
+Australia,Latvia,9.0
+Australia,Luxembourg,3.0
+Australia,Malaysia,1.0
+Australia,Netherlands,1.0
+Australia,Niue,8.0
+Australia,Panama,89.0
+Australia,Russia,107.0
+Australia,Saint Kitts and Nevis,13.0
+Australia,Samoa,1.5
+Australia,Seychelles,22.0
+Australia,Singapore,2.0
+Australia,South Africa,1.0
+Australia,Sweden,1.0
+Australia,Ukraine,2.0
+Australia,United Arab Emirates,8.0
+Australia,United Kingdom,151.0
+Australia,United States,35.0
+Austria,Bahamas,8.0
+Austria,Bermuda,8.0
+Austria,British Anguilla,2.0
+Austria,British Virgin Islands,37.5
+Austria,Canada,1.0
+Austria,Cayman Islands,4.0
+Austria,Cyprus,1.0
+Austria,Hong Kong,9.0
+Austria,Panama,28.0
+Austria,Russia,4.0
+Austria,Saint Kitts and Nevis,6.0
+Austria,Samoa,1.5
+Austria,United Kingdom,7.0
+Austria,United States,3.0
+Azerbaijan,Bahamas,8.0
+Azerbaijan,British Virgin Islands,36.0
+Azerbaijan,Canada,1.0
+Azerbaijan,China,4.0
+Azerbaijan,Cyprus,1.0
+Azerbaijan,Hong Kong,6.0
+Azerbaijan,Ireland,2.0
+Azerbaijan,Netherlands,1.0
+Azerbaijan,Panama,2.0
+Azerbaijan,Russia,7.0
+Azerbaijan,Saint Kitts and Nevis,5.0
+Azerbaijan,United Kingdom,8.0
+Azerbaijan,United States,2.0
+Bahamas,Barbados,100.0
+Bahamas,Bermuda,18.0
+Bahamas,British Anguilla,90.0
+Bahamas,British Virgin Islands,3645.5
+Bahamas,Canada,4.0
+Bahamas,Cayman Islands,46.0
+Bahamas,China,8.0
+Bahamas,Cook Islands,2.5
+Bahamas,Costa Rica,18.0
+Bahamas,Cyprus,8.0
+Bahamas,Gibraltar,1.0
+Bahamas,Hong Kong,52.0
+Bahamas,Ireland,5.0
+Bahamas,Latvia,3.0
+Bahamas,Luxembourg,3.0
+Bahamas,Malta,2.0
+Bahamas,Netherlands Antilles,2.0
+Bahamas,Nevada,582.0
+Bahamas,Niue,116.0
+Bahamas,Panama,4521.0
+Bahamas,Russia,25.0
+Bahamas,Saint Kitts and Nevis,2.0
+Bahamas,Saint Lucia,1.5
+Bahamas,Samoa,54.0
+Bahamas,Seychelles,216.0
+Bahamas,Singapore,2.0
+Bahamas,United Arab Emirates,5.0
+Bahamas,United Kingdom,40.0
+Bahamas,United States,10.0
+Bahamas,Uruguay,4.0
+Bahamas,Wyoming,30.0
+Bahrain,Bermuda,6.0
+Bahrain,British Virgin Islands,34.0
+Bahrain,Hong Kong,1.0
+Bahrain,Panama,9.0
+Bahrain,Russia,5.0
+Bahrain,Ukraine,1.0
+Bahrain,United Arab Emirates,3.0
+Bahrain,United Kingdom,5.0
+Bahrain,United States,1.0
+Bangladesh,Bermuda,2.0
+Bangladesh,British Virgin Islands,33.0
+Bangladesh,Cyprus,4.0
+Bangladesh,Hong Kong,12.0
+Bangladesh,Ireland,2.0
+Bangladesh,Latvia,1.0
+Bangladesh,Russia,8.0
+Bangladesh,United Kingdom,8.0
+Barbados,Bahamas,4.0
+Barbados,Bermuda,16.0
+Barbados,British Virgin Islands,39.0
+Barbados,Cayman Islands,8.0
+Barbados,China,1.0
+Barbados,Cyprus,1.0
+Barbados,Hong Kong,1.0
+Barbados,Panama,37.0
+Barbados,Russia,3.0
+Barbados,Singapore,1.0
+Barbados,United Kingdom,3.0
+Belarus,Austria,1.0
+Belarus,British Virgin Islands,47.5
+Belarus,China,2.0
+Belarus,Hong Kong,7.0
+Belarus,Ireland,1.0
+Belarus,Luxembourg,2.0
+Belarus,Mauritius,1.0
+Belarus,Panama,4.0
+Belarus,Russia,3.0
+Belarus,Singapore,1.0
+Belarus,Ukraine,1.0
+Belarus,United Arab Emirates,1.0
+Belarus,United Kingdom,5.0
+Belarus,United States,4.0
+Belgium,Bahamas,16.0
+Belgium,Barbados,2.0
+Belgium,Bermuda,2.0
+Belgium,British Anguilla,2.0
+Belgium,British Virgin Islands,94.0
+Belgium,Canada,4.0
+Belgium,Cayman Islands,1.0
+Belgium,China,5.0
+Belgium,Cyprus,1.0
+Belgium,Hong Kong,13.0
+Belgium,Ireland,5.0
+Belgium,Isle of Man,2.0
+Belgium,Latvia,4.0
+Belgium,Luxembourg,1.0
+Belgium,Niue,2.0
+Belgium,Panama,53.0
+Belgium,Russia,16.0
+Belgium,Saint Kitts and Nevis,4.0
+Belgium,Samoa,2.0
+Belgium,Seychelles,11.0
+Belgium,United Arab Emirates,1.0
+Belgium,United Kingdom,18.0
+Belgium,United States,8.0
+Belize,Australia,1.0
+Belize,Bahamas,500.0
+Belize,Barbados,6.0
+Belize,British Anguilla,38.0
+Belize,British Virgin Islands,414.5
+Belize,Canada,4.0
+Belize,Cayman Islands,2.0
+Belize,China,11.0
+Belize,Cyprus,4.0
+Belize,Hong Kong,118.0
+Belize,Ireland,10.0
+Belize,Mauritius,2.0
+Belize,Netherlands,2.0
+Belize,Niue,456.0
+Belize,Panama,850.0
+Belize,Russia,15.0
+Belize,Saint Kitts and Nevis,3.0
+Belize,Samoa,90.0
+Belize,Seychelles,350.0
+Belize,United Kingdom,22.0
+Belize,United States,2.0
+Belize,Wyoming,2.0
+Benin,British Virgin Islands,1.0
+Bermuda,Bahamas,42.0
+Bermuda,Barbados,74.0
+Bermuda,British Virgin Islands,360.5
+Bermuda,Canada,2.0
+Bermuda,Cayman Islands,34.0
+Bermuda,China,5.0
+Bermuda,Cook Islands,2.0
+Bermuda,Cyprus,7.0
+Bermuda,Czech Republic,4.0
+Bermuda,Hong Kong,29.0
+Bermuda,Ireland,4.0
+Bermuda,Jersey,7.0
+Bermuda,Latvia,5.0
+Bermuda,Liberia,8.0
+Bermuda,Liechtenstein,10.0
+Bermuda,Netherlands,11.0
+Bermuda,Netherlands Antilles,2.0
+Bermuda,Panama,54.0
+Bermuda,Russia,20.0
+Bermuda,Saint Kitts and Nevis,6.0
+Bermuda,Samoa,1.5
+Bermuda,Seychelles,3.0
+Bermuda,Singapore,3.0
+Bermuda,South Africa,1.0
+Bermuda,Sweden,1.0
+Bermuda,Turks and Caicos Islands,2.0
+Bermuda,United Arab Emirates,1.0
+Bermuda,United Kingdom,29.0
+Bermuda,United States,47.0
+Bermuda,Vanuatu,1.0
+Bhutan,British Virgin Islands,1.0
+Bhutan,Hong Kong,1.0
+Bolivia,British Virgin Islands,4.0
+Bolivia,Hong Kong,4.0
+Bolivia,Panama,182.0
+Bosnia and Herzegovina,British Virgin Islands,2.0
+Bosnia and Herzegovina,China,1.0
+Bosnia and Herzegovina,Hong Kong,1.0
+Botswana,British Virgin Islands,5.0
+Botswana,Panama,2.0
+Botswana,Seychelles,6.0
+Botswana,United Kingdom,1.0
+Brazil,Bahamas,66.0
+Brazil,Barbados,4.0
+Brazil,Bermuda,8.0
+Brazil,British Anguilla,28.0
+Brazil,British Virgin Islands,986.5
+Brazil,Canada,1.0
+Brazil,Cayman Islands,42.0
+Brazil,China,7.0
+Brazil,Cyprus,2.0
+Brazil,Hong Kong,11.0
+Brazil,Ireland,3.0
+Brazil,Isle of Man,6.0
+Brazil,Nevada,264.0
+Brazil,New Zealand,2.0
+Brazil,Niue,182.0
+Brazil,Panama,1044.0
+Brazil,Russia,10.0
+Brazil,Samoa,86.0
+Brazil,Seychelles,159.0
+Brazil,Singapore,1.0
+Brazil,United Arab Emirates,2.0
+Brazil,United Kingdom,25.0
+Brazil,United States,1.0
+Brazil,Uruguay,2.0
+Brazil,Wyoming,8.0
+British Anguilla,Barbados,14.0
+British Anguilla,British Anguilla,42.0
+British Anguilla,British Virgin Islands,16.0
+British Anguilla,China,2.0
+British Anguilla,Hong Kong,6.0
+British Anguilla,Ireland,1.0
+British Anguilla,Panama,1.0
+British Anguilla,Russia,2.0
+British Anguilla,United Kingdom,4.0
+British Virgin Islands,Antigua and Barbuda,7.0
+British Virgin Islands,Austria,3.0
+British Virgin Islands,Bahamas,290.0
+British Virgin Islands,Barbados,2106.0
+British Virgin Islands,Belarus,1.0
+British Virgin Islands,Belize,9.0
+British Virgin Islands,Bermuda,26.0
+British Virgin Islands,British Anguilla,2.0
+British Virgin Islands,Canada,96.0
+British Virgin Islands,Cayman Islands,20.0
+British Virgin Islands,China,174.0
+British Virgin Islands,Cook Islands,152.0
+British Virgin Islands,Croatia,1.0
+British Virgin Islands,Curaçao,4.0
+British Virgin Islands,Cyprus,198.0
+British Virgin Islands,Czech Republic,5.0
+British Virgin Islands,Germany,2.0
+British Virgin Islands,Gibraltar,4.0
+British Virgin Islands,Hong Kong,896.0
+British Virgin Islands,Ireland,184.0
+British Virgin Islands,Isle of Man,4.0
+British Virgin Islands,Israel,2.0
+British Virgin Islands,Jersey,27.0
+British Virgin Islands,Labuan,0.5
+British Virgin Islands,Latvia,70.0
+British Virgin Islands,Luxembourg,20.0
+British Virgin Islands,Malaysia,1.0
+British Virgin Islands,Malta,5.0
+British Virgin Islands,Marshall Islands,1.5
+British Virgin Islands,Mauritius,7.0
+British Virgin Islands,Netherlands,12.0
+British Virgin Islands,Nevada,4.0
+British Virgin Islands,Niue,4.0
+British Virgin Islands,Panama,513.0
+British Virgin Islands,Russia,608.0
+British Virgin Islands,Saint Kitts and Nevis,79.0
+British Virgin Islands,Samoa,4.5
+British Virgin Islands,Seychelles,96.5
+British Virgin Islands,Singapore,37.5
+British Virgin Islands,South Africa,3.0
+British Virgin Islands,State of Delaware,2.0
+British Virgin Islands,Sweden,3.0
+British Virgin Islands,Switzerland,11.0
+British Virgin Islands,Thailand,1.0
+British Virgin Islands,Turks and Caicos Islands,2.0
+British Virgin Islands,Ukraine,8.0
+British Virgin Islands,United Arab Emirates,66.0
+British Virgin Islands,United Kingdom,918.0
+British Virgin Islands,United States,248.0
+Brunei,British Virgin Islands,33.5
+Brunei,China,1.0
+Brunei,Cyprus,4.0
+Brunei,Hong Kong,11.0
+Brunei,Russia,9.0
+Brunei,Saint Kitts and Nevis,2.0
+Brunei,Seychelles,2.0
+Brunei,United Kingdom,7.0
+Brunei,United States,1.0
+Bulgaria,Bahamas,4.0
+Bulgaria,British Virgin Islands,49.0
+Bulgaria,China,1.0
+Bulgaria,Hong Kong,2.0
+Bulgaria,Ireland,1.0
+Bulgaria,Niue,2.0
+Bulgaria,Panama,11.0
+Bulgaria,Russia,2.0
+Bulgaria,Seychelles,44.0
+Bulgaria,United Kingdom,2.0
+Bulgaria,United States,1.0
+Cambodia,British Virgin Islands,8.0
+Cambodia,China,1.0
+Cambodia,Hong Kong,3.0
+Cambodia,Ireland,2.0
+Cambodia,Panama,1.0
+Cambodia,Russia,2.0
+Cambodia,United Kingdom,2.0
+Cameroon,Seychelles,2.0
+Canada,Antigua and Barbuda,5.0
+Canada,Bahamas,72.0
+Canada,Barbados,264.0
+Canada,Belize,2.0
+Canada,Bermuda,158.0
+Canada,British Anguilla,4.0
+Canada,British Virgin Islands,875.5
+Canada,Cayman Islands,129.5
+Canada,China,29.0
+Canada,Cook Islands,4.5
+Canada,Curaçao,1.0
+Canada,Cyprus,22.0
+Canada,Gibraltar,1.0
+Canada,Hong Kong,124.0
+Canada,Indonesia,1.0
+Canada,Ireland,29.0
+Canada,Isle of Man,10.0
+Canada,Jersey,1.0
+Canada,Labuan,1.0
+Canada,Latvia,10.0
+Canada,Luxembourg,5.0
+Canada,Malaysia,2.0
+Canada,Mauritius,1.0
+Canada,Netherlands,1.0
+Canada,Nevada,4.0
+Canada,Niue,62.0
+Canada,Panama,201.0
+Canada,Russia,95.0
+Canada,Saint Kitts and Nevis,9.0
+Canada,Samoa,12.0
+Canada,Seychelles,47.0
+Canada,Singapore,14.0
+Canada,South Africa,1.0
+Canada,Switzerland,1.0
+Canada,Ukraine,2.0
+Canada,United Arab Emirates,8.0
+Canada,United Kingdom,117.0
+Canada,United States,38.0
+Cayman Islands,Antigua and Barbuda,9.0
+Cayman Islands,Aruba,4.0
+Cayman Islands,Bahamas,86.0
+Cayman Islands,Barbados,226.0
+Cayman Islands,Bermuda,42.0
+Cayman Islands,British Virgin Islands,2446.0
+Cayman Islands,Canada,8.0
+Cayman Islands,China,15.0
+Cayman Islands,Cook Islands,72.5
+Cayman Islands,Cyprus,31.0
+Cayman Islands,Gibraltar,2.0
+Cayman Islands,Grenada,2.0
+Cayman Islands,Guernsey,18.0
+Cayman Islands,Hong Kong,259.0
+Cayman Islands,Ireland,21.0
+Cayman Islands,Isle of Man,16.0
+Cayman Islands,Jersey,7.0
+Cayman Islands,Latvia,10.0
+Cayman Islands,Liberia,2.0
+Cayman Islands,Liechtenstein,2.0
+Cayman Islands,Luxembourg,8.0
+Cayman Islands,Malta,2.0
+Cayman Islands,Marshall Islands,2.0
+Cayman Islands,Netherlands,4.0
+Cayman Islands,Netherlands Antilles,4.0
+Cayman Islands,New Zealand,4.0
+Cayman Islands,Niue,2.0
+Cayman Islands,Panama,134.0
+Cayman Islands,Russia,71.0
+Cayman Islands,Saint Kitts and Nevis,195.0
+Cayman Islands,Saint Vincent and the Grenadines,24.0
+Cayman Islands,Samoa,1709.0
+Cayman Islands,Seychelles,17.0
+Cayman Islands,Singapore,13.0
+Cayman Islands,State of Delaware,232.0
+Cayman Islands,Sweden,1.0
+Cayman Islands,Switzerland,3.0
+Cayman Islands,Turks and Caicos Islands,3.0
+Cayman Islands,US Virgin Islands,2.0
+Cayman Islands,Ukraine,1.0
+Cayman Islands,United Arab Emirates,5.0
+Cayman Islands,United Kingdom,98.0
+Cayman Islands,United States,82.0
+Central African Republic,British Virgin Islands,2.0
+Chad,British Virgin Islands,20.0
+Chad,Panama,2.0
+Chile,Bahamas,28.0
+Chile,Barbados,2.0
+Chile,Bermuda,2.0
+Chile,British Anguilla,4.0
+Chile,British Virgin Islands,93.0
+Chile,Canada,1.0
+Chile,China,3.0
+Chile,Costa Rica,2.0
+Chile,Cyprus,3.0
+Chile,Hong Kong,7.0
+Chile,Ireland,2.0
+Chile,Nevada,12.0
+Chile,Panama,173.0
+Chile,Russia,10.0
+Chile,Seychelles,4.0
+Chile,United Kingdom,6.0
+Chile,United States,3.0
+Chile,Wyoming,2.0
+China,Antigua and Barbuda,26.0
+China,Austria,10.0
+China,Bahamas,12.0
+China,Barbados,2.0
+China,Belarus,1.0
+China,Belize,23.0
+China,Bermuda,154.0
+China,British Anguilla,296.0
+China,British Virgin Islands,11138.0
+China,Canada,150.0
+China,Cayman Islands,296.5
+China,Cook Islands,3.0
+China,Croatia,2.0
+China,Curaçao,4.0
+China,Cyprus,396.0
+China,Czech Republic,13.0
+China,France,1.0
+China,Georgia,2.0
+China,Germany,4.0
+China,Gibraltar,10.0
+China,Hong Kong,2046.0
+China,Ireland,397.0
+China,Isle of Man,2.0
+China,Israel,3.0
+China,Jersey,48.0
+China,Kazakhstan,1.0
+China,Labuan,0.5
+China,Latvia,165.0
+China,Luxembourg,47.0
+China,Malaysia,2.0
+China,Malta,12.0
+China,Mauritius,18.0
+China,Netherlands,14.0
+China,Nevada,18.0
+China,Niue,24.0
+China,Panama,670.0
+China,Russia,1470.0
+China,Saint Kitts and Nevis,135.0
+China,Samoa,748.5
+China,Serbia,1.0
+China,Seychelles,1486.0
+China,Singapore,74.5
+China,South Africa,1.0
+China,Sweden,7.0
+China,Switzerland,25.0
+China,Thailand,1.0
+China,Turks and Caicos Islands,2.0
+China,US Virgin Islands,1.0
+China,Ukraine,17.0
+China,United Arab Emirates,101.0
+China,United Kingdom,2035.0
+China,United States,566.0
+China,Vanuatu,1.0
+Colombia,Bahamas,44.0
+Colombia,Belize,38.0
+Colombia,Bermuda,4.0
+Colombia,British Anguilla,118.0
+Colombia,British Virgin Islands,541.0
+Colombia,Cayman Islands,6.0
+Colombia,Costa Rica,84.0
+Colombia,Cyprus,4.0
+Colombia,Hong Kong,5.0
+Colombia,Ireland,1.0
+Colombia,Latvia,1.0
+Colombia,Luxembourg,1.0
+Colombia,Malta,2.0
+Colombia,Nevada,20.0
+Colombia,New Zealand,6.0
+Colombia,Niue,4.0
+Colombia,Panama,2715.0
+Colombia,Russia,4.0
+Colombia,Saint Kitts and Nevis,6.0
+Colombia,Samoa,12.0
+Colombia,Seychelles,36.0
+Colombia,United Kingdom,104.0
+Colombia,United States,1.0
+Colombia,Uruguay,2.0
+Congo,British Virgin Islands,3.0
+Congo,Ireland,1.0
+Congo,Russia,1.0
+Congo,Singapore,1.0
+Cook Islands,Antigua and Barbuda,1.0
+Cook Islands,Australia,1.0
+Cook Islands,Austria,1.0
+Cook Islands,Bermuda,2.0
+Cook Islands,British Virgin Islands,317.5
+Cook Islands,Canada,11.0
+Cook Islands,China,7.0
+Cook Islands,Cyprus,21.0
+Cook Islands,Gibraltar,1.0
+Cook Islands,Hong Kong,90.0
+Cook Islands,Indonesia,1.0
+Cook Islands,Ireland,23.0
+Cook Islands,Jersey,1.0
+Cook Islands,Latvia,6.0
+Cook Islands,Netherlands,1.0
+Cook Islands,Niue,2.0
+Cook Islands,Panama,34.0
+Cook Islands,Russia,60.0
+Cook Islands,Saint Kitts and Nevis,13.0
+Cook Islands,Samoa,2.0
+Cook Islands,Seychelles,7.0
+Cook Islands,Singapore,6.0
+Cook Islands,Switzerland,3.0
+Cook Islands,Turks and Caicos Islands,1.0
+Cook Islands,United Arab Emirates,8.0
+Cook Islands,United Kingdom,106.0
+Cook Islands,United States,24.0
+Costa Rica,Bahamas,64.0
+Costa Rica,British Anguilla,22.0
+Costa Rica,British Virgin Islands,288.0
+Costa Rica,Cayman Islands,4.0
+Costa Rica,China,1.0
+Costa Rica,Hong Kong,11.0
+Costa Rica,Isle of Man,2.0
+Costa Rica,Nevada,4.0
+Costa Rica,Niue,8.0
+Costa Rica,Panama,1373.0
+Costa Rica,Russia,1.0
+Costa Rica,Samoa,5.5
+Costa Rica,Seychelles,4.0
+Costa Rica,Singapore,1.0
+Costa Rica,United Kingdom,3.0
+Croatia,Barbados,2.0
+Croatia,British Virgin Islands,11.5
+Croatia,Cyprus,1.0
+Croatia,Ireland,3.0
+Croatia,Panama,3.0
+Croatia,Russia,2.0
+Croatia,Saint Kitts and Nevis,1.0
+Cuba,Barbados,2.0
+Cuba,British Virgin Islands,16.0
+Cuba,Cayman Islands,2.0
+Cuba,Panama,6.0
+Curaçao,Barbados,38.0
+Curaçao,Bermuda,2.0
+Curaçao,British Virgin Islands,35.5
+Curaçao,China,3.0
+Curaçao,Cyprus,2.0
+Curaçao,Hong Kong,3.0
+Curaçao,Ireland,1.0
+Curaçao,Jersey,1.0
+Curaçao,Panama,18.0
+Curaçao,Russia,2.0
+Curaçao,Seychelles,24.0
+Curaçao,Singapore,2.5
+Curaçao,United Arab Emirates,2.0
+Curaçao,United Kingdom,2.0
+Curaçao,United States,3.0
+Cyprus,Antigua and Barbuda,4.0
+Cyprus,Bahamas,1301.0
+Cyprus,Barbados,10.0
+Cyprus,Belize,29.0
+Cyprus,Bermuda,16.0
+Cyprus,British Anguilla,10.0
+Cyprus,British Virgin Islands,4498.5
+Cyprus,Canada,22.0
+Cyprus,Cayman Islands,21.0
+Cyprus,China,132.0
+Cyprus,Cook Islands,3.0
+Cyprus,Croatia,1.0
+Cyprus,Czech Republic,1.0
+Cyprus,Germany,1.0
+Cyprus,Gibraltar,1.0
+Cyprus,Hong Kong,208.0
+Cyprus,Ireland,53.0
+Cyprus,Isle of Man,8.0
+Cyprus,Jersey,7.0
+Cyprus,Labuan,1.0
+Cyprus,Latvia,9.0
+Cyprus,Luxembourg,2.0
+Cyprus,Malaysia,2.0
+Cyprus,Mauritius,3.0
+Cyprus,Netherlands,4.0
+Cyprus,Nevada,2.0
+Cyprus,Niue,626.0
+Cyprus,Panama,705.0
+Cyprus,Russia,146.0
+Cyprus,Saint Kitts and Nevis,18.0
+Cyprus,Saint Lucia,1.5
+Cyprus,Samoa,23.5
+Cyprus,Seychelles,904.0
+Cyprus,Singapore,12.0
+Cyprus,Switzerland,4.0
+Cyprus,Ukraine,2.0
+Cyprus,United Arab Emirates,5.0
+Cyprus,United Kingdom,192.0
+Cyprus,United States,50.0
+Czech Republic,Bahamas,4.0
+Czech Republic,Barbados,2.0
+Czech Republic,Belize,1.0
+Czech Republic,British Virgin Islands,81.0
+Czech Republic,Canada,1.0
+Czech Republic,China,3.0
+Czech Republic,Cyprus,6.0
+Czech Republic,Hong Kong,9.0
+Czech Republic,Ireland,1.0
+Czech Republic,Isle of Man,2.0
+Czech Republic,Netherlands,1.0
+Czech Republic,Panama,14.0
+Czech Republic,Russia,4.0
+Czech Republic,Samoa,2.0
+Czech Republic,Seychelles,2.0
+Czech Republic,Singapore,1.0
+Czech Republic,United Kingdom,3.0
+Côte d'Ivoire,British Virgin Islands,22.0
+Côte d'Ivoire,Cyprus,1.0
+Côte d'Ivoire,Hong Kong,2.0
+Côte d'Ivoire,Ireland,1.0
+Côte d'Ivoire,Nevada,2.0
+Côte d'Ivoire,Niue,2.0
+Côte d'Ivoire,Panama,14.0
+Côte d'Ivoire,Samoa,4.0
+Côte d'Ivoire,United Kingdom,1.0
+Denmark,Bahamas,8.0
+Denmark,Barbados,2.0
+Denmark,Bermuda,4.0
+Denmark,British Virgin Islands,17.0
+Denmark,Hong Kong,5.0
+Denmark,Latvia,1.0
+Denmark,Panama,9.0
+Denmark,Russia,2.0
+Denmark,Saint Kitts and Nevis,1.0
+Denmark,Seychelles,5.0
+Denmark,Ukraine,1.0
+Denmark,United Kingdom,1.0
+Denmark,United States,1.0
+Djibouti,British Virgin Islands,1.0
+Djibouti,Canada,2.0
+Djibouti,China,1.0
+Djibouti,Panama,2.0
+Dominica,Barbados,2.0
+Dominica,British Virgin Islands,9.0
+Dominica,Hong Kong,2.0
+Dominica,Israel,1.0
+Dominica,Jersey,1.0
+Dominica,Panama,124.0
+Dominican Republic,Bahamas,16.0
+Dominican Republic,Barbados,6.0
+Dominican Republic,British Anguilla,48.0
+Dominican Republic,British Virgin Islands,275.0
+Dominican Republic,Canada,2.0
+Dominican Republic,Cayman Islands,10.0
+Dominican Republic,Cyprus,1.0
+Dominican Republic,Hong Kong,4.0
+Dominican Republic,Ireland,1.0
+Dominican Republic,Panama,624.0
+Dominican Republic,Saint Kitts and Nevis,1.0
+Dominican Republic,Samoa,2.0
+Dominican Republic,Seychelles,23.0
+Dominican Republic,United Kingdom,4.0
+Dominican Republic,United States,2.0
+Ecuador,Bahamas,98.0
+Ecuador,Barbados,4.0
+Ecuador,Belize,10.0
+Ecuador,Bermuda,2.0
+Ecuador,British Anguilla,292.0
+Ecuador,British Virgin Islands,507.0
+Ecuador,Canada,1.0
+Ecuador,Cayman Islands,2.0
+Ecuador,Costa Rica,16.0
+Ecuador,Hong Kong,7.0
+Ecuador,Ireland,1.0
+Ecuador,Nevada,398.0
+Ecuador,New Zealand,18.0
+Ecuador,Niue,52.0
+Ecuador,Panama,2203.0
+Ecuador,Samoa,40.0
+Ecuador,Seychelles,52.0
+Ecuador,United Kingdom,14.0
+Ecuador,Uruguay,4.0
+Egypt,Bahamas,10.0
+Egypt,Barbados,2.0
+Egypt,Bermuda,6.0
+Egypt,British Virgin Islands,55.0
+Egypt,Cayman Islands,2.0
+Egypt,China,1.0
+Egypt,Cyprus,2.0
+Egypt,Hong Kong,5.0
+Egypt,Panama,44.0
+Egypt,Russia,8.0
+Egypt,Seychelles,4.0
+Egypt,United Kingdom,4.0
+El Salvador,Bahamas,12.0
+El Salvador,Barbados,4.0
+El Salvador,British Anguilla,2.0
+El Salvador,British Virgin Islands,40.0
+El Salvador,China,1.0
+El Salvador,Hong Kong,2.0
+El Salvador,Nevada,14.0
+El Salvador,Niue,2.0
+El Salvador,Panama,391.0
+El Salvador,Seychelles,10.0
+Estonia,Bahamas,228.0
+Estonia,British Anguilla,2.0
+Estonia,British Virgin Islands,1295.5
+Estonia,China,4.0
+Estonia,Cyprus,4.0
+Estonia,Hong Kong,1.0
+Estonia,Isle of Man,2.0
+Estonia,Malta,2.0
+Estonia,Niue,136.0
+Estonia,Panama,28.0
+Estonia,Russia,1.0
+Estonia,Samoa,6.0
+Estonia,Seychelles,68.0
+Fiji,British Virgin Islands,12.0
+Fiji,Canada,1.0
+Fiji,Cook Islands,2.0
+Fiji,Hong Kong,2.0
+Fiji,Ireland,2.0
+Fiji,Latvia,1.0
+Fiji,Russia,3.0
+Fiji,Singapore,1.5
+Fiji,United Kingdom,2.0
+Fiji,United States,2.0
+Finland,Bahamas,64.0
+Finland,Belize,1.0
+Finland,British Virgin Islands,71.5
+Finland,Canada,1.0
+Finland,Cayman Islands,14.0
+Finland,China,3.0
+Finland,Cyprus,2.0
+Finland,Hong Kong,4.0
+Finland,Niue,2.0
+Finland,Panama,8.0
+Finland,Russia,2.0
+Finland,Saint Kitts and Nevis,1.0
+Finland,Seychelles,8.0
+Finland,Singapore,1.0
+Finland,United Kingdom,7.0
+Finland,United States,2.0
+France,Antigua and Barbuda,1.0
+France,Bahamas,46.0
+France,Barbados,4.0
+France,Bermuda,50.0
+France,British Anguilla,20.0
+France,British Virgin Islands,408.5
+France,Canada,1.0
+France,Cayman Islands,12.0
+France,China,4.0
+France,Cook Islands,3.0
+France,Cyprus,8.5
+France,Hong Kong,34.0
+France,Indonesia,1.0
+France,Ireland,8.0
+France,Isle of Man,2.0
+France,Jersey,1.0
+France,Labuan,0.5
+France,Latvia,2.0
+France,Malaysia,1.0
+France,Nevada,2.0
+France,Niue,36.0
+France,Panama,168.0
+France,Russia,35.0
+France,Saint Kitts and Nevis,3.0
+France,Samoa,7.5
+France,Seychelles,33.0
+France,Singapore,2.0
+France,United Arab Emirates,1.0
+France,United Kingdom,38.0
+France,United States,10.0
+French Guiana,British Virgin Islands,40.0
+French Guiana,Cayman Islands,16.0
+French Guiana,Guernsey,4.0
+French Polynesia,British Virgin Islands,14.0
+French Polynesia,Hong Kong,4.0
+French Polynesia,Latvia,2.0
+French Polynesia,Panama,3.0
+French Polynesia,Russia,3.0
+French Polynesia,United Kingdom,6.0
+French Polynesia,United States,2.0
+Gabon,British Virgin Islands,2.0
+Gabon,Panama,1.0
+Gabon,Russia,2.0
+Georgia,British Anguilla,2.0
+Georgia,British Virgin Islands,8.0
+Georgia,China,1.0
+Georgia,Cook Islands,0.5
+Georgia,Ireland,2.0
+Georgia,Panama,1.0
+Georgia,Russia,1.0
+Georgia,United Arab Emirates,1.0
+Georgia,United Kingdom,2.0
+Germany,Bahamas,2.0
+Germany,Barbados,6.0
+Germany,Belize,4.0
+Germany,Bermuda,8.0
+Germany,British Anguilla,2.0
+Germany,British Virgin Islands,222.5
+Germany,Canada,8.0
+Germany,Cayman Islands,10.0
+Germany,China,8.0
+Germany,Cyprus,19.0
+Germany,Hong Kong,53.0
+Germany,Ireland,11.0
+Germany,Isle of Man,2.0
+Germany,Jersey,3.0
+Germany,Latvia,7.0
+Germany,Luxembourg,2.0
+Germany,Mauritius,1.0
+Germany,Niue,4.0
+Germany,Panama,273.0
+Germany,Russia,31.0
+Germany,Saint Kitts and Nevis,7.0
+Germany,Samoa,1.5
+Germany,Seychelles,23.0
+Germany,United Arab Emirates,5.0
+Germany,United Kingdom,37.0
+Germany,United States,20.0
+Ghana,Bahamas,2.0
+Ghana,British Anguilla,2.0
+Ghana,British Virgin Islands,5.0
+Ghana,Hong Kong,1.0
+Ghana,Russia,2.0
+Ghana,United Kingdom,1.0
+Ghana,United States,1.0
+Gibraltar,Bahamas,300.0
+Gibraltar,Barbados,16.0
+Gibraltar,Belize,4.0
+Gibraltar,British Virgin Islands,3211.5
+Gibraltar,Canada,3.0
+Gibraltar,Cayman Islands,2.0
+Gibraltar,China,5.0
+Gibraltar,Hong Kong,12.0
+Gibraltar,Ireland,4.0
+Gibraltar,Isle of Man,8.0
+Gibraltar,Jersey,1.0
+Gibraltar,Luxembourg,1.0
+Gibraltar,Malta,2.0
+Gibraltar,Nevada,4.0
+Gibraltar,Niue,56.0
+Gibraltar,Panama,396.0
+Gibraltar,Russia,8.0
+Gibraltar,Samoa,28.0
+Gibraltar,Seychelles,128.0
+Gibraltar,Singapore,1.5
+Gibraltar,Switzerland,1.0
+Gibraltar,Thailand,1.0
+Gibraltar,Ukraine,1.0
+Gibraltar,United Kingdom,10.0
+Gibraltar,United States,1.0
+Greece,Bahamas,14.0
+Greece,Bermuda,10.0
+Greece,British Virgin Islands,172.0
+Greece,Canada,4.0
+Greece,Cayman Islands,2.0
+Greece,China,7.0
+Greece,Cyprus,3.0
+Greece,Hong Kong,10.0
+Greece,Ireland,2.0
+Greece,Jersey,1.0
+Greece,Liberia,2.0
+Greece,Malta,1.0
+Greece,Panama,273.0
+Greece,Russia,13.0
+Greece,Seychelles,43.0
+Greece,United Arab Emirates,1.0
+Greece,United Kingdom,12.0
+Greece,United States,1.0
+Grenada,Barbados,4.0
+Grenada,British Virgin Islands,4.0
+Grenada,Panama,1.0
+Grenada,Saint Kitts and Nevis,8.0
+Guam,British Virgin Islands,2.0
+Guam,United States,1.0
+Guatemala,Bahamas,78.0
+Guatemala,British Anguilla,46.0
+Guatemala,British Virgin Islands,370.0
+Guatemala,Cayman Islands,16.0
+Guatemala,Niue,280.0
+Guatemala,Panama,1602.0
+Guatemala,Saint Kitts and Nevis,8.0
+Guatemala,Samoa,32.0
+Guatemala,Seychelles,60.0
+Guernsey,Bahamas,3008.0
+Guernsey,Barbados,26.0
+Guernsey,Bermuda,6.0
+Guernsey,British Anguilla,54.0
+Guernsey,British Virgin Islands,9562.0
+Guernsey,Canada,5.0
+Guernsey,Cayman Islands,8.0
+Guernsey,China,9.0
+Guernsey,Cook Islands,4.0
+Guernsey,Cyprus,8.0
+Guernsey,Czech Republic,2.0
+Guernsey,Hong Kong,25.0
+Guernsey,Ireland,4.0
+Guernsey,Isle of Man,44.0
+Guernsey,Jersey,16.0
+Guernsey,Luxembourg,1.0
+Guernsey,Niue,604.0
+Guernsey,Panama,1423.0
+Guernsey,Russia,24.0
+Guernsey,Saint Kitts and Nevis,3.0
+Guernsey,Samoa,38.0
+Guernsey,Seychelles,106.0
+Guernsey,Sweden,2.0
+Guernsey,Turks and Caicos Islands,2.0
+Guernsey,United Arab Emirates,3.0
+Guernsey,United Kingdom,22.0
+Guernsey,United States,15.0
+Guernsey,Uruguay,2.0
+Guinea,Switzerland,1.0
+Guinea,United Kingdom,1.0
+Guyana,Barbados,4.0
+Guyana,British Virgin Islands,1.0
+Guyana,Cyprus,1.0
+Haiti,British Virgin Islands,6.0
+Haiti,Nevada,10.0
+Honduras,Bahamas,2.0
+Honduras,British Virgin Islands,8.0
+Honduras,Cayman Islands,2.0
+Honduras,Panama,38.0
+Hong Kong,Antigua and Barbuda,45.0
+Hong Kong,Austria,7.0
+Hong Kong,Bahamas,1924.0
+Hong Kong,Barbados,10.0
+Hong Kong,Belarus,5.0
+Hong Kong,Belize,45.0
+Hong Kong,Bermuda,786.0
+Hong Kong,British Anguilla,2732.0
+Hong Kong,British Virgin Islands,65366.5
+Hong Kong,Canada,286.0
+Hong Kong,Cayman Islands,473.5
+Hong Kong,China,471.0
+Hong Kong,Cook Islands,37.0
+Hong Kong,Croatia,2.0
+Hong Kong,Curaçao,5.0
+Hong Kong,Cyprus,593.0
+Hong Kong,Czech Republic,18.0
+Hong Kong,Estonia,1.0
+Hong Kong,France,1.0
+Hong Kong,Georgia,1.0
+Hong Kong,Germany,12.0
+Hong Kong,Gibraltar,10.0
+Hong Kong,Grenada,1.0
+Hong Kong,Ireland,617.0
+Hong Kong,Isle of Man,20.0
+Hong Kong,Israel,5.0
+Hong Kong,Japan,1.0
+Hong Kong,Jersey,69.0
+Hong Kong,Kuwait,1.0
+Hong Kong,Labuan,12.5
+Hong Kong,Latvia,235.0
+Hong Kong,Luxembourg,86.0
+Hong Kong,Malaysia,18.0
+Hong Kong,Malta,24.0
+Hong Kong,Marshall Islands,1.5
+Hong Kong,Mauritius,33.5
+Hong Kong,Netherlands,47.0
+Hong Kong,Nevada,86.0
+Hong Kong,Niue,2110.0
+Hong Kong,Panama,2257.5
+Hong Kong,Portugal,1.0
+Hong Kong,Russia,2067.0
+Hong Kong,Saint Kitts and Nevis,201.0
+Hong Kong,Samoa,6084.0
+Hong Kong,Serbia,2.0
+Hong Kong,Seychelles,7776.5
+Hong Kong,Singapore,131.5
+Hong Kong,South Africa,3.0
+Hong Kong,South Korea,1.0
+Hong Kong,Sweden,25.0
+Hong Kong,Switzerland,50.0
+Hong Kong,Taiwan,2.0
+Hong Kong,Thailand,3.0
+Hong Kong,Turks and Caicos Islands,8.0
+Hong Kong,US Virgin Islands,1.0
+Hong Kong,Ukraine,34.0
+Hong Kong,United Arab Emirates,188.0
+Hong Kong,United Kingdom,3071.0
+Hong Kong,United States,821.0
+Hong Kong,Vanuatu,3.5
+Hungary,Bahamas,8.0
+Hungary,Barbados,6.0
+Hungary,British Virgin Islands,58.0
+Hungary,Canada,1.0
+Hungary,Curaçao,1.0
+Hungary,Cyprus,1.0
+Hungary,Hong Kong,3.0
+Hungary,Luxembourg,1.0
+Hungary,Nevada,2.0
+Hungary,Niue,50.0
+Hungary,Panama,14.0
+Hungary,Russia,2.0
+Hungary,Samoa,2.0
+Hungary,Seychelles,54.0
+Hungary,Ukraine,2.0
+Hungary,United Kingdom,3.0
+Hungary,United States,3.0
+Iceland,Bermuda,4.0
+Iceland,British Virgin Islands,29.0
+Iceland,Panama,2.0
+Iceland,Switzerland,1.0
+Iceland,United Kingdom,1.0
+India,Barbados,2.0
+India,Belize,1.0
+India,Bermuda,20.0
+India,British Virgin Islands,528.5
+India,Canada,16.0
+India,Cayman Islands,4.0
+India,China,16.0
+India,Cyprus,30.0
+India,Czech Republic,2.0
+India,Hong Kong,135.0
+India,Ireland,25.0
+India,Isle of Man,16.0
+India,Jersey,4.0
+India,Kuwait,1.0
+India,Latvia,12.0
+India,Luxembourg,6.0
+India,Malta,1.0
+India,Niue,2.0
+India,Panama,58.0
+India,Russia,121.0
+India,Saint Kitts and Nevis,7.0
+India,Samoa,3.0
+India,Serbia,1.0
+India,Seychelles,26.0
+India,Singapore,6.0
+India,South Africa,1.0
+India,Sweden,1.0
+India,Switzerland,1.0
+India,Ukraine,2.0
+India,United Arab Emirates,8.0
+India,United Kingdom,175.0
+India,United States,50.0
+Indonesia,Antigua and Barbuda,8.0
+Indonesia,Austria,2.0
+Indonesia,Bahamas,2.5
+Indonesia,Belize,4.0
+Indonesia,Bermuda,10.0
+Indonesia,British Virgin Islands,2295.0
+Indonesia,Canada,56.0
+Indonesia,Cayman Islands,20.0
+Indonesia,China,69.0
+Indonesia,Cook Islands,13.0
+Indonesia,Croatia,1.0
+Indonesia,Curaçao,2.0
+Indonesia,Cyprus,142.0
+Indonesia,Czech Republic,5.0
+Indonesia,Gibraltar,3.0
+Indonesia,Hong Kong,656.5
+Indonesia,Ireland,121.0
+Indonesia,Israel,1.0
+Indonesia,Jersey,12.0
+Indonesia,Latvia,50.0
+Indonesia,Luxembourg,20.0
+Indonesia,Malta,3.0
+Indonesia,Mauritius,2.0
+Indonesia,Netherlands,6.0
+Indonesia,Panama,238.0
+Indonesia,Russia,444.0
+Indonesia,Saint Kitts and Nevis,42.0
+Indonesia,Samoa,23.5
+Indonesia,Seychelles,82.0
+Indonesia,Singapore,42.5
+Indonesia,South Africa,1.0
+Indonesia,Sweden,3.0
+Indonesia,Switzerland,7.0
+Indonesia,Taiwan,1.0
+Indonesia,Turks and Caicos Islands,1.0
+Indonesia,Ukraine,4.0
+Indonesia,United Arab Emirates,32.0
+Indonesia,United Kingdom,759.0
+Indonesia,United States,200.0
+Iran,British Virgin Islands,3.0
+Iran,Canada,1.0
+Iran,Ireland,1.0
+Iran,Panama,8.0
+Iran,Russia,1.0
+Iran,United Kingdom,1.0
+Iran,United States,1.0
+Ireland,Bahamas,50.0
+Ireland,Barbados,26.0
+Ireland,Bermuda,40.0
+Ireland,British Anguilla,2.0
+Ireland,British Virgin Islands,407.0
+Ireland,Canada,1.0
+Ireland,Cayman Islands,18.0
+Ireland,China,4.0
+Ireland,Guernsey,4.0
+Ireland,Hong Kong,14.0
+Ireland,Isle of Man,60.0
+Ireland,Jersey,3.0
+Ireland,Niue,62.0
+Ireland,Panama,113.0
+Ireland,Russia,6.0
+Ireland,Saint Kitts and Nevis,1.0
+Ireland,Samoa,22.0
+Ireland,Seychelles,27.0
+Ireland,Singapore,1.0
+Ireland,United Arab Emirates,1.0
+Ireland,United Kingdom,8.0
+Isle of Man,Bahamas,1770.0
+Isle of Man,Barbados,52.0
+Isle of Man,Bermuda,10.0
+Isle of Man,British Anguilla,70.0
+Isle of Man,British Virgin Islands,6152.5
+Isle of Man,Cayman Islands,24.0
+Isle of Man,China,2.0
+Isle of Man,Cyprus,16.0
+Isle of Man,Gibraltar,1.0
+Isle of Man,Guernsey,8.0
+Isle of Man,Hong Kong,22.0
+Isle of Man,Ireland,4.0
+Isle of Man,Isle of Man,14.0
+Isle of Man,Jersey,18.0
+Isle of Man,Malta,2.0
+Isle of Man,Nevada,14.0
+Isle of Man,Niue,542.0
+Isle of Man,Panama,1002.0
+Isle of Man,Russia,6.0
+Isle of Man,Samoa,140.0
+Isle of Man,Seychelles,160.0
+Isle of Man,United Arab Emirates,2.0
+Isle of Man,United Kingdom,8.0
+Isle of Man,United States,2.0
+Isle of Man,Uruguay,2.0
+Israel,Bahamas,32.0
+Israel,Barbados,2.0
+Israel,Belize,24.0
+Israel,Bermuda,2.0
+Israel,British Anguilla,300.0
+Israel,British Virgin Islands,450.5
+Israel,Canada,2.0
+Israel,Cayman Islands,8.0
+Israel,China,15.0
+Israel,Cyprus,10.0
+Israel,Hong Kong,40.0
+Israel,Ireland,7.0
+Israel,Isle of Man,4.0
+Israel,Jersey,3.0
+Israel,Latvia,1.0
+Israel,Malta,8.0
+Israel,Mauritius,1.0
+Israel,Netherlands,1.0
+Israel,Niue,22.0
+Israel,Panama,271.0
+Israel,Russia,20.0
+Israel,Saint Kitts and Nevis,1.0
+Israel,Samoa,94.0
+Israel,Seychelles,246.0
+Israel,Singapore,1.0
+Israel,Switzerland,1.0
+Israel,United Arab Emirates,2.0
+Israel,United Kingdom,27.0
+Israel,United States,8.0
+Italy,Antigua and Barbuda,1.0
+Italy,Bahamas,6.0
+Italy,Belize,1.0
+Italy,British Anguilla,408.0
+Italy,British Virgin Islands,142.0
+Italy,Canada,2.0
+Italy,Cayman Islands,4.0
+Italy,China,2.0
+Italy,Cook Islands,0.5
+Italy,Croatia,1.0
+Italy,Cyprus,34.0
+Italy,Hong Kong,28.0
+Italy,Ireland,4.0
+Italy,Isle of Man,4.0
+Italy,Jersey,2.0
+Italy,Latvia,3.0
+Italy,Nevada,14.0
+Italy,Niue,44.0
+Italy,Panama,89.0
+Italy,Russia,15.0
+Italy,Saint Kitts and Nevis,2.0
+Italy,Samoa,6.0
+Italy,Seychelles,47.0
+Italy,South Africa,1.0
+Italy,Ukraine,1.0
+Italy,United Arab Emirates,2.0
+Italy,United Kingdom,16.0
+Italy,United States,8.0
+Jamaica,Bahamas,2.0
+Jamaica,Barbados,24.0
+Jamaica,British Virgin Islands,12.0
+Jamaica,Cayman Islands,10.0
+Jamaica,Hong Kong,2.0
+Jamaica,Panama,1.0
+Jamaica,United Kingdom,1.0
+Jamaica,United States,1.0
+Japan,Antigua and Barbuda,1.0
+Japan,Belize,1.0
+Japan,Bermuda,16.0
+Japan,British Virgin Islands,404.0
+Japan,Canada,17.0
+Japan,Cayman Islands,32.0
+Japan,China,21.0
+Japan,Cook Islands,2.0
+Japan,Cyprus,27.0
+Japan,Gibraltar,1.0
+Japan,Hong Kong,114.0
+Japan,Ireland,22.0
+Japan,Latvia,13.0
+Japan,Luxembourg,1.0
+Japan,Mauritius,1.0
+Japan,Niue,4.0
+Japan,Panama,50.0
+Japan,Russia,70.0
+Japan,Saint Kitts and Nevis,9.0
+Japan,Samoa,1.5
+Japan,Seychelles,20.0
+Japan,Singapore,3.0
+Japan,Ukraine,1.0
+Japan,United Arab Emirates,9.0
+Japan,United Kingdom,121.0
+Japan,United States,32.0
+Jersey,Bahamas,2488.0
+Jersey,Barbados,88.0
+Jersey,Belize,2.0
+Jersey,Bermuda,26.0
+Jersey,British Anguilla,4.0
+Jersey,British Virgin Islands,21362.5
+Jersey,Canada,4.0
+Jersey,Cayman Islands,22.0
+Jersey,China,20.0
+Jersey,Cook Islands,4.0
+Jersey,Cyprus,12.0
+Jersey,Hong Kong,181.0
+Jersey,Ireland,7.0
+Jersey,Isle of Man,38.0
+Jersey,Latvia,2.0
+Jersey,Luxembourg,1.0
+Jersey,Malta,8.0
+Jersey,Mauritius,2.0
+Jersey,Nevada,6.0
+Jersey,Niue,688.0
+Jersey,Panama,4272.0
+Jersey,Russia,33.0
+Jersey,Saint Kitts and Nevis,6.0
+Jersey,Samoa,37.0
+Jersey,Seychelles,43.0
+Jersey,Singapore,3.0
+Jersey,South Africa,1.0
+Jersey,United Arab Emirates,3.0
+Jersey,United Kingdom,60.0
+Jersey,United States,18.0
+Jersey,Wyoming,2.0
+Jordan,Bahamas,28.0
+Jordan,Bermuda,2.0
+Jordan,British Virgin Islands,2294.0
+Jordan,Canada,1.0
+Jordan,China,1.0
+Jordan,Gibraltar,1.0
+Jordan,Hong Kong,1.0
+Jordan,Panama,788.0
+Jordan,Seychelles,2.0
+Jordan,United States,1.0
+Kazakhstan,Antigua and Barbuda,1.0
+Kazakhstan,Bermuda,2.0
+Kazakhstan,British Virgin Islands,78.0
+Kazakhstan,Canada,2.0
+Kazakhstan,Cayman Islands,1.5
+Kazakhstan,China,9.0
+Kazakhstan,Cyprus,3.0
+Kazakhstan,Germany,1.0
+Kazakhstan,Hong Kong,15.0
+Kazakhstan,Ireland,7.0
+Kazakhstan,Labuan,0.5
+Kazakhstan,Luxembourg,2.0
+Kazakhstan,Malaysia,1.0
+Kazakhstan,Netherlands,1.0
+Kazakhstan,Panama,9.0
+Kazakhstan,Russia,14.0
+Kazakhstan,Switzerland,1.0
+Kazakhstan,Ukraine,1.0
+Kazakhstan,United Arab Emirates,2.0
+Kazakhstan,United Kingdom,14.0
+Kazakhstan,United States,3.0
+Kenya,Bahamas,2.0
+Kenya,British Anguilla,4.0
+Kenya,British Virgin Islands,40.0
+Kenya,Cayman Islands,2.0
+Kenya,China,4.0
+Kenya,Cyprus,1.0
+Kenya,Hong Kong,3.0
+Kenya,Isle of Man,2.0
+Kenya,Latvia,1.0
+Kenya,Panama,13.0
+Kenya,Russia,2.0
+Kenya,Seychelles,2.0
+Kenya,United Kingdom,1.0
+Kuwait,Bahamas,4.0
+Kuwait,Bermuda,2.0
+Kuwait,British Virgin Islands,35.0
+Kuwait,Canada,1.0
+Kuwait,Cayman Islands,8.0
+Kuwait,Cyprus,3.0
+Kuwait,Hong Kong,4.0
+Kuwait,Ireland,1.0
+Kuwait,Luxembourg,1.0
+Kuwait,Panama,73.0
+Kuwait,Russia,4.0
+Kuwait,Seychelles,26.0
+Kuwait,United Kingdom,3.0
+Kuwait,United States,2.0
+Kyrgyzstan,British Virgin Islands,3.0
+Kyrgyzstan,Hong Kong,1.0
+Kyrgyzstan,Ireland,1.0
+Kyrgyzstan,Isle of Man,2.0
+Kyrgyzstan,United Kingdom,1.0
+Kyrgyzstan,United States,1.0
+Laos,British Virgin Islands,1.0
+Laos,Hong Kong,1.0
+Laos,Ireland,1.0
+Latvia,Bahamas,102.0
+Latvia,Belize,1.0
+Latvia,British Virgin Islands,2653.0
+Latvia,Canada,1.0
+Latvia,China,5.0
+Latvia,Cook Islands,1.5
+Latvia,Cyprus,1.0
+Latvia,Hong Kong,18.0
+Latvia,Ireland,3.0
+Latvia,Niue,26.0
+Latvia,Panama,31.0
+Latvia,Russia,11.0
+Latvia,Saint Kitts and Nevis,1.0
+Latvia,Seychelles,2.0
+Latvia,United Kingdom,13.0
+Latvia,United States,3.0
+Lebanon,Bahamas,14.0
+Lebanon,Bermuda,2.0
+Lebanon,British Virgin Islands,435.0
+Lebanon,Cayman Islands,2.0
+Lebanon,China,1.0
+Lebanon,Hong Kong,8.0
+Lebanon,Ireland,1.0
+Lebanon,Latvia,1.0
+Lebanon,Niue,92.0
+Lebanon,Panama,244.0
+Lebanon,Samoa,24.0
+Lebanon,Seychelles,176.0
+Lebanon,United Kingdom,3.0
+Lebanon,United States,1.0
+Lesotho,British Virgin Islands,1.0
+Lesotho,Russia,1.0
+Lesotho,Seychelles,2.0
+Lesotho,Switzerland,1.0
+Liberia,Barbados,38.0
+Liberia,Bermuda,8.0
+Liberia,British Virgin Islands,22.0
+Liberia,China,1.0
+Liberia,Cyprus,1.0
+Liberia,Hong Kong,13.0
+Liberia,Jersey,1.0
+Liberia,Liechtenstein,72.0
+Liberia,Panama,7.0
+Liberia,Russia,2.0
+Liberia,Switzerland,1.0
+Liberia,United Kingdom,7.0
+Libya,British Virgin Islands,5.0
+Libya,Cyprus,1.0
+Libya,Panama,3.0
+Libya,Russia,2.0
+Libya,United Kingdom,1.0
+Liechtenstein,Bahamas,174.0
+Liechtenstein,Barbados,10.0
+Liechtenstein,Bermuda,8.0
+Liechtenstein,British Anguilla,10.0
+Liechtenstein,British Virgin Islands,2587.0
+Liechtenstein,Canada,2.0
+Liechtenstein,Cayman Islands,9.0
+Liechtenstein,China,3.0
+Liechtenstein,Curaçao,1.0
+Liechtenstein,Cyprus,3.0
+Liechtenstein,Hong Kong,38.0
+Liechtenstein,Latvia,1.0
+Liechtenstein,Niue,98.0
+Liechtenstein,Panama,894.0
+Liechtenstein,Russia,16.0
+Liechtenstein,Saint Kitts and Nevis,1.0
+Liechtenstein,Samoa,64.0
+Liechtenstein,Seychelles,339.0
+Liechtenstein,Singapore,7.0
+Liechtenstein,Ukraine,1.0
+Liechtenstein,United Arab Emirates,2.0
+Liechtenstein,United Kingdom,11.0
+Liechtenstein,United States,4.0
+Lithuania,Bahamas,4.0
+Lithuania,British Anguilla,2.0
+Lithuania,British Virgin Islands,13.0
+Lithuania,Jersey,1.0
+Lithuania,Latvia,1.0
+Lithuania,Niue,40.0
+Lithuania,Panama,13.0
+Lithuania,Russia,1.0
+Lithuania,United Kingdom,2.0
+Luxembourg,Bahamas,846.0
+Luxembourg,Barbados,22.0
+Luxembourg,Belize,16.0
+Luxembourg,Bermuda,8.0
+Luxembourg,British Anguilla,14.0
+Luxembourg,British Virgin Islands,6184.5
+Luxembourg,Cayman Islands,16.0
+Luxembourg,China,2.0
+Luxembourg,Costa Rica,2.0
+Luxembourg,Cyprus,14.0
+Luxembourg,Hong Kong,81.0
+Luxembourg,Ireland,3.0
+Luxembourg,Latvia,2.0
+Luxembourg,Malta,12.0
+Luxembourg,Nevada,58.0
+Luxembourg,Niue,438.0
+Luxembourg,Panama,11169.0
+Luxembourg,Samoa,26.0
+Luxembourg,Seychelles,2842.0
+Luxembourg,United Kingdom,8.0
+Luxembourg,United States,2.0
+Luxembourg,Uruguay,2.0
+Luxembourg,Wyoming,2.0
+Macao,Belize,1.0
+Macao,Bermuda,4.0
+Macao,British Virgin Islands,138.0
+Macao,Canada,4.0
+Macao,China,5.0
+Macao,Cook Islands,0.5
+Macao,Cyprus,9.0
+Macao,Hong Kong,33.0
+Macao,Ireland,9.0
+Macao,Jersey,2.0
+Macao,Latvia,2.0
+Macao,Malta,230.0
+Macao,Panama,9.0
+Macao,Russia,13.0
+Macao,Saint Kitts and Nevis,2.0
+Macao,Seychelles,5.0
+Macao,United Arab Emirates,3.0
+Macao,United Kingdom,19.0
+Macao,United States,6.0
+Macedonia,British Virgin Islands,3.0
+Macedonia,Seychelles,2.0
+Macedonia,United Kingdom,1.0
+Madagascar,British Virgin Islands,4.0
+Madagascar,Canada,1.0
+Madagascar,Hong Kong,4.0
+Madagascar,Russia,2.0
+Madagascar,United Kingdom,1.0
+Malawi,British Virgin Islands,11.0
+Malawi,Canada,1.0
+Malawi,China,5.0
+Malawi,Cyprus,1.0
+Malawi,Ireland,1.0
+Malawi,Latvia,1.0
+Malawi,Seychelles,1.0
+Malaysia,Antigua and Barbuda,6.0
+Malaysia,Austria,3.0
+Malaysia,Bahamas,2.0
+Malaysia,Barbados,2.0
+Malaysia,Belize,2.0
+Malaysia,Bermuda,34.0
+Malaysia,British Anguilla,2.0
+Malaysia,British Virgin Islands,1337.5
+Malaysia,Canada,25.0
+Malaysia,Cayman Islands,3.5
+Malaysia,China,51.0
+Malaysia,Cook Islands,3.5
+Malaysia,Curaçao,6.0
+Malaysia,Cyprus,89.0
+Malaysia,Czech Republic,1.0
+Malaysia,Germany,5.0
+Malaysia,Gibraltar,1.0
+Malaysia,Hong Kong,339.5
+Malaysia,Ireland,74.0
+Malaysia,Jersey,6.0
+Malaysia,Labuan,845.0
+Malaysia,Latvia,32.0
+Malaysia,Luxembourg,7.0
+Malaysia,Malta,4.0
+Malaysia,Mauritius,3.0
+Malaysia,Netherlands,3.0
+Malaysia,Niue,8.0
+Malaysia,Panama,128.0
+Malaysia,Russia,294.0
+Malaysia,Saint Kitts and Nevis,35.0
+Malaysia,Saint Lucia,1.5
+Malaysia,Samoa,11.0
+Malaysia,Seychelles,45.0
+Malaysia,Singapore,17.0
+Malaysia,Sweden,3.0
+Malaysia,Switzerland,8.0
+Malaysia,United Arab Emirates,15.0
+Malaysia,United Kingdom,344.0
+Malaysia,United States,108.0
+Mali,British Virgin Islands,16.0
+Malta,Bahamas,22.0
+Malta,Barbados,2.0
+Malta,British Virgin Islands,951.0
+Malta,Canada,1.0
+Malta,China,3.0
+Malta,Cyprus,4.0
+Malta,Hong Kong,5.0
+Malta,Ireland,1.0
+Malta,Isle of Man,2.0
+Malta,New Zealand,18.0
+Malta,Niue,110.0
+Malta,Panama,217.0
+Malta,Russia,1.0
+Malta,Saint Kitts and Nevis,1.0
+Malta,Seychelles,62.0
+Malta,United Arab Emirates,1.0
+Malta,United Kingdom,8.0
+Malta,United States,2.0
+Marshall Islands,Barbados,2.0
+Marshall Islands,British Virgin Islands,4.0
+Marshall Islands,Cayman Islands,2.0
+Marshall Islands,Hong Kong,3.0
+Marshall Islands,Isle of Man,2.0
+Marshall Islands,Russia,1.0
+Marshall Islands,United Kingdom,3.0
+Marshall Islands,United States,2.0
+Mauritius,Antigua and Barbuda,2.0
+Mauritius,Bahamas,272.0
+Mauritius,Barbados,6.0
+Mauritius,Bermuda,4.0
+Mauritius,British Virgin Islands,1936.0
+Mauritius,Canada,4.0
+Mauritius,Cayman Islands,4.0
+Mauritius,China,2.0
+Mauritius,Cook Islands,0.5
+Mauritius,Cyprus,5.0
+Mauritius,Hong Kong,22.0
+Mauritius,Ireland,8.0
+Mauritius,Isle of Man,2.0
+Mauritius,Jersey,7.0
+Mauritius,Latvia,5.0
+Mauritius,Niue,64.0
+Mauritius,Panama,226.0
+Mauritius,Russia,15.0
+Mauritius,Saint Kitts and Nevis,4.0
+Mauritius,Samoa,22.5
+Mauritius,Seychelles,33.0
+Mauritius,Singapore,1.0
+Mauritius,Ukraine,2.0
+Mauritius,United Kingdom,28.0
+Mauritius,United States,7.0
+Mexico,Bahamas,6.0
+Mexico,Barbados,6.0
+Mexico,Bermuda,2.0
+Mexico,British Virgin Islands,63.0
+Mexico,Cayman Islands,10.0
+Mexico,China,1.0
+Mexico,Hong Kong,13.0
+Mexico,Ireland,3.0
+Mexico,Latvia,1.0
+Mexico,Nevada,2.0
+Mexico,Panama,83.0
+Mexico,Russia,6.0
+Mexico,Seychelles,13.0
+Mexico,United Kingdom,12.0
+Mexico,United States,4.0
+Moldova,British Virgin Islands,22.0
+Moldova,Canada,1.0
+Moldova,China,1.0
+Moldova,Cyprus,1.0
+Moldova,Hong Kong,7.0
+Moldova,Israel,1.0
+Moldova,Panama,3.0
+Moldova,Russia,2.0
+Moldova,United Kingdom,7.0
+Monaco,Bahamas,166.0
+Monaco,Belize,4.0
+Monaco,Bermuda,64.0
+Monaco,British Anguilla,8.0
+Monaco,British Virgin Islands,2128.0
+Monaco,Canada,1.0
+Monaco,Cayman Islands,16.0
+Monaco,China,2.0
+Monaco,Cyprus,2.0
+Monaco,Hong Kong,17.0
+Monaco,Ireland,4.0
+Monaco,Isle of Man,4.0
+Monaco,Latvia,1.0
+Monaco,Nevada,12.0
+Monaco,Niue,98.0
+Monaco,Panama,2809.0
+Monaco,Russia,17.0
+Monaco,Saint Kitts and Nevis,1.0
+Monaco,Samoa,40.0
+Monaco,Seychelles,1133.0
+Monaco,United Kingdom,14.0
+Monaco,United States,1.0
+Mongolia,British Virgin Islands,11.0
+Mongolia,Cyprus,1.0
+Mongolia,Hong Kong,3.0
+Mongolia,Jersey,1.0
+Montenegro,British Virgin Islands,30.0
+Montenegro,Hong Kong,2.0
+Montenegro,Ireland,1.0
+Montenegro,Israel,1.0
+Montenegro,Panama,2.0
+Montenegro,Russia,1.0
+Montenegro,United Kingdom,5.0
+Montenegro,United States,1.0
+Morocco,British Virgin Islands,43.0
+Morocco,Panama,4.0
+Morocco,Seychelles,36.0
+Morocco,United Kingdom,2.0
+Morocco,United States,1.0
+Mozambique,British Virgin Islands,2.0
+Mozambique,Seychelles,4.0
+Myanmar,British Virgin Islands,15.0
+Myanmar,China,1.0
+Myanmar,Curaçao,1.0
+Myanmar,Cyprus,1.0
+Myanmar,Hong Kong,3.0
+Myanmar,Jersey,1.0
+Myanmar,Malta,1.0
+Myanmar,Panama,3.0
+Myanmar,Russia,2.0
+Myanmar,United Kingdom,6.0
+Myanmar,United States,1.0
+Namibia,British Virgin Islands,2.0
+Namibia,Hong Kong,1.0
+Namibia,Russia,2.0
+Namibia,Seychelles,4.0
+Nauru,British Virgin Islands,4.0
+Nauru,Hong Kong,3.0
+Nauru,Ireland,1.0
+Nauru,Panama,2.0
+Nauru,United Kingdom,1.0
+Nepal,British Virgin Islands,9.0
+Nepal,Canada,1.0
+Nepal,Cyprus,1.0
+Nepal,Hong Kong,4.0
+Nepal,Ireland,1.0
+Nepal,Panama,1.0
+Nepal,Russia,2.0
+Nepal,United Kingdom,3.0
+Netherlands,Bahamas,56.0
+Netherlands,Barbados,36.0
+Netherlands,Bermuda,22.0
+Netherlands,British Anguilla,8.0
+Netherlands,British Virgin Islands,224.5
+Netherlands,Cayman Islands,12.0
+Netherlands,China,3.0
+Netherlands,Cook Islands,0.5
+Netherlands,Cyprus,3.0
+Netherlands,Hong Kong,31.0
+Netherlands,Ireland,3.0
+Netherlands,Isle of Man,4.0
+Netherlands,Jersey,1.0
+Netherlands,Latvia,1.0
+Netherlands,Netherlands Antilles,2.0
+Netherlands,Niue,14.0
+Netherlands,Panama,108.0
+Netherlands,Russia,17.0
+Netherlands,Saint Kitts and Nevis,2.0
+Netherlands,Samoa,7.5
+Netherlands,Seychelles,18.0
+Netherlands,Singapore,5.0
+Netherlands,United Arab Emirates,1.0
+Netherlands,United Kingdom,21.0
+Netherlands,United States,11.0
+New Zealand,Bahamas,14.0
+New Zealand,Bermuda,36.0
+New Zealand,British Virgin Islands,175.5
+New Zealand,Canada,3.0
+New Zealand,Cayman Islands,1.0
+New Zealand,China,9.0
+New Zealand,Cook Islands,3.5
+New Zealand,Cyprus,7.0
+New Zealand,Hong Kong,46.0
+New Zealand,Ireland,9.0
+New Zealand,Jersey,2.0
+New Zealand,Latvia,3.0
+New Zealand,Luxembourg,4.0
+New Zealand,Netherlands,1.0
+New Zealand,Nevada,2.0
+New Zealand,Niue,26.0
+New Zealand,Panama,29.0
+New Zealand,Russia,27.0
+New Zealand,Saint Kitts and Nevis,2.0
+New Zealand,Samoa,12.0
+New Zealand,Seychelles,4.0
+New Zealand,Singapore,3.0
+New Zealand,United Arab Emirates,1.0
+New Zealand,United Kingdom,39.0
+New Zealand,United States,12.0
+Nicaragua,British Virgin Islands,4.0
+Nicaragua,Cayman Islands,2.0
+Nicaragua,Panama,20.0
+Nigeria,Bahamas,10.0
+Nigeria,Barbados,2.0
+Nigeria,Bermuda,2.0
+Nigeria,British Virgin Islands,30.0
+Nigeria,Cayman Islands,4.0
+Nigeria,Cyprus,1.0
+Nigeria,Hong Kong,4.0
+Nigeria,Ireland,1.0
+Nigeria,Panama,5.0
+Nigeria,Russia,1.0
+Nigeria,Seychelles,4.0
+Nigeria,United Kingdom,1.0
+Niue,Bahamas,2.0
+Niue,British Virgin Islands,27.0
+Niue,Hong Kong,1.0
+Niue,Panama,472.0
+Niue,Russia,1.0
+Niue,Seychelles,11.0
+Norfolk Island,United States,2.0
+Northern Mariana Islands,British Virgin Islands,1.5
+Norway,Bahamas,2.0
+Norway,Barbados,4.0
+Norway,Bermuda,52.0
+Norway,British Virgin Islands,33.5
+Norway,Canada,3.0
+Norway,Cayman Islands,12.0
+Norway,Cyprus,2.0
+Norway,Hong Kong,4.0
+Norway,Ireland,2.0
+Norway,Panama,19.0
+Norway,Russia,3.0
+Norway,United Kingdom,11.0
+Norway,United States,2.0
+Oman,British Virgin Islands,9.0
+Oman,Cayman Islands,2.0
+Oman,Panama,1.0
+Oman,Russia,2.0
+Pakistan,Bahamas,2.0
+Pakistan,Bermuda,2.0
+Pakistan,British Virgin Islands,34.0
+Pakistan,Canada,3.0
+Pakistan,China,1.0
+Pakistan,Cyprus,1.0
+Pakistan,Hong Kong,12.0
+Pakistan,Ireland,4.0
+Pakistan,Luxembourg,1.0
+Pakistan,Panama,5.0
+Pakistan,Russia,4.0
+Pakistan,Saint Kitts and Nevis,2.0
+Pakistan,Seychelles,1.0
+Pakistan,Singapore,1.0
+Pakistan,United Arab Emirates,2.0
+Pakistan,United Kingdom,5.0
+Pakistan,United States,3.0
+Palestine,British Virgin Islands,1.0
+Palestine,Cyprus,1.0
+Panama,Bahamas,2240.0
+Panama,Barbados,50.0
+Panama,Belize,81.0
+Panama,British Anguilla,556.0
+Panama,British Virgin Islands,9789.5
+Panama,Canada,6.0
+Panama,Cayman Islands,8.0
+Panama,China,34.0
+Panama,Cook Islands,0.5
+Panama,Costa Rica,10.0
+Panama,Cyprus,54.0
+Panama,Czech Republic,1.0
+Panama,Hong Kong,284.0
+Panama,Ireland,7.0
+Panama,Israel,2.0
+Panama,Jersey,3.0
+Panama,Latvia,3.0
+Panama,Malta,2.0
+Panama,Netherlands,1.0
+Panama,Nevada,164.0
+Panama,New Zealand,4.0
+Panama,Niue,3178.0
+Panama,Russia,56.0
+Panama,Saint Kitts and Nevis,2.0
+Panama,Samoa,820.0
+Panama,Seychelles,2551.0
+Panama,Singapore,1.0
+Panama,Sweden,1.0
+Panama,Switzerland,2.0
+Panama,Ukraine,3.0
+Panama,United Kingdom,64.0
+Panama,United States,14.0
+Panama,Uruguay,14.0
+Panama,Wyoming,10.0
+Papua New Guinea,British Virgin Islands,3.0
+Papua New Guinea,Ireland,1.0
+Papua New Guinea,Latvia,1.0
+Papua New Guinea,United Kingdom,1.0
+Paraguay,Bahamas,20.0
+Paraguay,British Virgin Islands,57.0
+Paraguay,Cyprus,1.0
+Paraguay,Hong Kong,1.0
+Paraguay,Ireland,1.0
+Paraguay,Nevada,10.0
+Paraguay,Niue,2.0
+Paraguay,Panama,169.0
+Paraguay,United States,1.0
+Peru,Bahamas,4.0
+Peru,Barbados,2.0
+Peru,Bermuda,2.0
+Peru,British Virgin Islands,30.0
+Peru,China,3.0
+Peru,Cyprus,3.0
+Peru,Hong Kong,3.0
+Peru,Isle of Man,2.0
+Peru,New Zealand,2.0
+Peru,Niue,2.0
+Peru,Panama,71.0
+Peru,Russia,1.0
+Peru,Seychelles,2.0
+Peru,United Kingdom,3.0
+Philippines,Antigua and Barbuda,4.0
+Philippines,Bahamas,4.0
+Philippines,Belize,1.0
+Philippines,Bermuda,18.0
+Philippines,British Anguilla,2.0
+Philippines,British Virgin Islands,442.5
+Philippines,Canada,13.0
+Philippines,Cayman Islands,5.0
+Philippines,China,18.0
+Philippines,Curaçao,1.0
+Philippines,Cyprus,25.0
+Philippines,Czech Republic,1.0
+Philippines,Germany,2.0
+Philippines,Gibraltar,1.0
+Philippines,Hong Kong,110.5
+Philippines,Indonesia,1.0
+Philippines,Ireland,18.0
+Philippines,Jersey,2.0
+Philippines,Latvia,9.0
+Philippines,Luxembourg,4.0
+Philippines,Netherlands,1.0
+Philippines,Niue,20.0
+Philippines,Panama,55.0
+Philippines,Russia,77.0
+Philippines,Saint Kitts and Nevis,9.0
+Philippines,Seychelles,20.0
+Philippines,Singapore,5.0
+Philippines,Sweden,1.0
+Philippines,Ukraine,3.0
+Philippines,United Arab Emirates,11.0
+Philippines,United Kingdom,146.0
+Philippines,United States,31.0
+Poland,Bahamas,116.0
+Poland,British Virgin Islands,67.0
+Poland,Canada,1.0
+Poland,Cyprus,1.0
+Poland,Hong Kong,2.0
+Poland,Ireland,1.0
+Poland,Niue,80.0
+Poland,Panama,9.0
+Poland,Russia,2.0
+Poland,Samoa,2.0
+Poland,Seychelles,52.0
+Poland,United Kingdom,2.0
+Poland,United States,1.0
+Poland,Wyoming,2.0
+Portugal,Bahamas,88.0
+Portugal,Barbados,2.0
+Portugal,Bermuda,4.0
+Portugal,British Virgin Islands,140.0
+Portugal,Canada,2.0
+Portugal,Cayman Islands,2.0
+Portugal,China,1.0
+Portugal,Cyprus,10.0
+Portugal,Hong Kong,5.0
+Portugal,Latvia,2.0
+Portugal,Nevada,4.0
+Portugal,Niue,112.0
+Portugal,Panama,127.0
+Portugal,Russia,2.0
+Portugal,Samoa,20.0
+Portugal,Seychelles,1.0
+Portugal,United Kingdom,4.0
+Portugal,United States,1.0
+Puerto Rico,Barbados,2.0
+Puerto Rico,British Virgin Islands,1.5
+Puerto Rico,Panama,2.0
+Qatar,Bahamas,8.0
+Qatar,Bermuda,2.0
+Qatar,British Virgin Islands,20.0
+Qatar,Isle of Man,10.0
+Qatar,Panama,24.0
+Qatar,Seychelles,2.0
+Qatar,United Kingdom,1.0
+Romania,British Anguilla,4.0
+Romania,British Virgin Islands,18.0
+Romania,Canada,1.0
+Romania,China,2.0
+Romania,Cyprus,2.0
+Romania,Hong Kong,1.0
+Romania,Luxembourg,1.0
+Romania,Malta,2.0
+Romania,Panama,5.0
+Romania,Russia,3.0
+Romania,United Kingdom,5.0
+Russia,Antigua and Barbuda,1.0
+Russia,Austria,3.0
+Russia,Bahamas,2673.0
+Russia,Belize,22.0
+Russia,Bermuda,50.0
+Russia,British Anguilla,146.0
+Russia,British Virgin Islands,6292.5
+Russia,Canada,44.0
+Russia,Cayman Islands,11.5
+Russia,China,253.0
+Russia,Cook Islands,5.0
+Russia,Cyprus,62.0
+Russia,Czech Republic,4.0
+Russia,Germany,1.0
+Russia,Gibraltar,3.0
+Russia,Hong Kong,457.5
+Russia,Ireland,111.0
+Russia,Israel,4.0
+Russia,Jersey,15.0
+Russia,Latvia,31.0
+Russia,Luxembourg,8.0
+Russia,Malta,1.0
+Russia,Mauritius,1.0
+Russia,Netherlands,5.0
+Russia,Niue,732.0
+Russia,Panama,384.0
+Russia,Saint Kitts and Nevis,18.0
+Russia,Samoa,16.0
+Russia,Seychelles,58.0
+Russia,Singapore,13.5
+Russia,Sweden,2.0
+Russia,Switzerland,6.0
+Russia,Thailand,1.0
+Russia,Turks and Caicos Islands,2.0
+Russia,Ukraine,1.0
+Russia,United Arab Emirates,19.0
+Russia,United Kingdom,427.0
+Russia,United States,98.0
+Russia,Uruguay,4.0
+Saint Kitts and Nevis,Bahamas,18.0
+Saint Kitts and Nevis,Barbados,12.0
+Saint Kitts and Nevis,Belize,1.0
+Saint Kitts and Nevis,British Virgin Islands,129.5
+Saint Kitts and Nevis,Canada,2.0
+Saint Kitts and Nevis,Cayman Islands,2.0
+Saint Kitts and Nevis,China,11.0
+Saint Kitts and Nevis,Cook Islands,2.0
+Saint Kitts and Nevis,Cyprus,3.0
+Saint Kitts and Nevis,Hong Kong,64.0
+Saint Kitts and Nevis,Ireland,2.0
+Saint Kitts and Nevis,Malaysia,1.0
+Saint Kitts and Nevis,Mauritius,2.0
+Saint Kitts and Nevis,Nevada,8.0
+Saint Kitts and Nevis,Niue,4.0
+Saint Kitts and Nevis,Panama,242.0
+Saint Kitts and Nevis,Russia,11.0
+Saint Kitts and Nevis,Seychelles,35.0
+Saint Kitts and Nevis,Singapore,2.0
+Saint Kitts and Nevis,United Arab Emirates,1.0
+Saint Kitts and Nevis,United Kingdom,19.0
+Saint Kitts and Nevis,United States,8.0
+Saint Lucia,Barbados,230.0
+Saint Lucia,British Virgin Islands,10.0
+Saint Lucia,Hong Kong,1.0
+Saint Lucia,Panama,3.0
+Saint Lucia,Saint Lucia,8.0
+Saint Martin (French part),Barbados,2.0
+Saint Vincent and the Grenadines,Barbados,26.0
+Saint Vincent and the Grenadines,British Virgin Islands,14.0
+Saint Vincent and the Grenadines,China,1.0
+Saint Vincent and the Grenadines,Hong Kong,2.0
+Saint Vincent and the Grenadines,Ireland,1.0
+Saint Vincent and the Grenadines,Panama,6.0
+Saint Vincent and the Grenadines,Russia,4.0
+Saint Vincent and the Grenadines,United Kingdom,2.0
+Saint Vincent and the Grenadines,United States,2.0
+Samoa,Antigua and Barbuda,1.0
+Samoa,Austria,1.0
+Samoa,Bahamas,243.0
+Samoa,Belize,1.0
+Samoa,Bermuda,2.0
+Samoa,British Anguilla,4.0
+Samoa,British Virgin Islands,934.0
+Samoa,Canada,12.0
+Samoa,Cayman Islands,4.0
+Samoa,China,23.0
+Samoa,Cook Islands,2.0
+Samoa,Cyprus,28.0
+Samoa,Czech Republic,2.0
+Samoa,Gibraltar,2.0
+Samoa,Grenada,1.0
+Samoa,Hong Kong,169.0
+Samoa,Ireland,27.0
+Samoa,Jersey,1.0
+Samoa,Latvia,11.0
+Samoa,Luxembourg,6.0
+Samoa,Malta,1.0
+Samoa,Niue,156.0
+Samoa,Panama,351.0
+Samoa,Russia,103.0
+Samoa,Saint Kitts and Nevis,6.0
+Samoa,Seychelles,1717.0
+Samoa,Singapore,7.0
+Samoa,Switzerland,3.0
+Samoa,Ukraine,1.0
+Samoa,United Arab Emirates,10.0
+Samoa,United Kingdom,134.0
+Samoa,United States,41.0
+Saudi Arabia,Bahamas,8.0
+Saudi Arabia,Bermuda,52.0
+Saudi Arabia,British Virgin Islands,176.0
+Saudi Arabia,Cayman Islands,4.0
+Saudi Arabia,China,1.0
+Saudi Arabia,Curaçao,1.0
+Saudi Arabia,Cyprus,2.0
+Saudi Arabia,Hong Kong,6.0
+Saudi Arabia,Ireland,1.0
+Saudi Arabia,Jersey,1.0
+Saudi Arabia,Latvia,1.0
+Saudi Arabia,Niue,6.0
+Saudi Arabia,Panama,52.0
+Saudi Arabia,Russia,9.0
+Saudi Arabia,Seychelles,2.0
+Saudi Arabia,Singapore,1.0
+Saudi Arabia,United Kingdom,9.0
+Saudi Arabia,United States,5.0
+Senegal,Panama,2.0
+Senegal,Seychelles,4.0
+Serbia,British Virgin Islands,14.0
+Serbia,Canada,1.0
+Serbia,China,2.0
+Serbia,Hong Kong,4.0
+Serbia,Ireland,2.0
+Serbia,Panama,2.0
+Serbia,Russia,4.0
+Serbia,United Kingdom,4.0
+Serbia,United States,1.0
+Seychelles,Austria,3.0
+Seychelles,Bahamas,134.0
+Seychelles,Barbados,6.0
+Seychelles,Belize,3.0
+Seychelles,British Anguilla,4.0
+Seychelles,British Virgin Islands,507.0
+Seychelles,Canada,5.0
+Seychelles,Cayman Islands,4.0
+Seychelles,China,25.0
+Seychelles,Cook Islands,0.5
+Seychelles,Cyprus,11.0
+Seychelles,Czech Republic,1.0
+Seychelles,Hong Kong,54.0
+Seychelles,Ireland,15.0
+Seychelles,Luxembourg,3.0
+Seychelles,Panama,185.0
+Seychelles,Russia,38.0
+Seychelles,Saint Kitts and Nevis,7.0
+Seychelles,Samoa,28.0
+Seychelles,Singapore,3.0
+Seychelles,Sweden,1.0
+Seychelles,Switzerland,2.0
+Seychelles,Ukraine,1.0
+Seychelles,United Arab Emirates,1.0
+Seychelles,United Kingdom,42.0
+Seychelles,United States,17.0
+Sierra Leone,Bermuda,6.0
+Sierra Leone,British Virgin Islands,2.0
+Sierra Leone,Hong Kong,1.0
+Sierra Leone,Panama,1.0
+Sierra Leone,Russia,1.0
+Singapore,Antigua and Barbuda,10.0
+Singapore,Australia,2.0
+Singapore,Austria,5.0
+Singapore,Bahamas,188.5
+Singapore,Barbados,2.0
+Singapore,Belarus,2.0
+Singapore,Belize,4.0
+Singapore,Bermuda,192.0
+Singapore,British Anguilla,30.0
+Singapore,British Virgin Islands,11524.5
+Singapore,Canada,85.0
+Singapore,Cayman Islands,71.0
+Singapore,China,117.0
+Singapore,Cook Islands,100.0
+Singapore,Croatia,2.0
+Singapore,Curaçao,1.0
+Singapore,Cyprus,223.0
+Singapore,Czech Republic,4.0
+Singapore,Georgia,2.0
+Singapore,Germany,3.0
+Singapore,Gibraltar,1.0
+Singapore,Hong Kong,1040.0
+Singapore,Ireland,231.0
+Singapore,Isle of Man,4.0
+Singapore,Israel,2.0
+Singapore,Jersey,17.0
+Singapore,Labuan,16.0
+Singapore,Latvia,100.0
+Singapore,Luxembourg,25.0
+Singapore,Malaysia,18.0
+Singapore,Malta,7.0
+Singapore,Marshall Islands,1.5
+Singapore,Mauritius,16.0
+Singapore,Mexico,1.0
+Singapore,Netherlands,9.0
+Singapore,Niue,196.0
+Singapore,Panama,417.0
+Singapore,Russia,666.0
+Singapore,Saint Kitts and Nevis,77.0
+Singapore,Saint Lucia,2.0
+Singapore,Samoa,272.5
+Singapore,Seychelles,374.0
+Singapore,Sweden,4.0
+Singapore,Switzerland,13.0
+Singapore,Taiwan,1.0
+Singapore,Thailand,1.0
+Singapore,Turks and Caicos Islands,3.0
+Singapore,Ukraine,17.0
+Singapore,United Arab Emirates,54.0
+Singapore,United Kingdom,1004.0
+Singapore,United States,266.0
+Singapore,Vanuatu,2.0
+Sint Maarten (Dutch part),Panama,2.0
+Slovakia,British Virgin Islands,11.5
+Slovakia,China,2.0
+Slovakia,Hong Kong,1.0
+Slovakia,Ireland,1.0
+Slovakia,Panama,5.0
+Slovakia,Russia,1.0
+Slovakia,Singapore,1.0
+Slovakia,United Kingdom,2.0
+Slovenia,Bahamas,6.0
+Slovenia,British Anguilla,32.0
+Slovenia,British Virgin Islands,16.5
+Slovenia,China,2.0
+Slovenia,Cyprus,1.0
+Slovenia,Hong Kong,2.0
+Slovenia,Panama,3.0
+Slovenia,Russia,2.0
+Slovenia,United Kingdom,6.0
+Slovenia,United States,1.0
+South Africa,Antigua and Barbuda,1.0
+South Africa,Bahamas,16.0
+South Africa,Bermuda,4.0
+South Africa,British Virgin Islands,188.5
+South Africa,Canada,1.0
+South Africa,Cayman Islands,8.0
+South Africa,China,7.0
+South Africa,Cyprus,6.0
+South Africa,Hong Kong,15.0
+South Africa,Isle of Man,8.0
+South Africa,Jersey,3.0
+South Africa,Niue,14.0
+South Africa,Panama,76.0
+South Africa,Russia,14.0
+South Africa,Saint Kitts and Nevis,2.0
+South Africa,Samoa,1.5
+South Africa,Seychelles,1.0
+South Africa,Singapore,1.0
+South Africa,United Arab Emirates,1.0
+South Africa,United Kingdom,16.0
+South Africa,United States,4.0
+South Korea,Austria,1.0
+South Korea,Barbados,2.0
+South Korea,Bermuda,6.0
+South Korea,British Virgin Islands,150.0
+South Korea,Canada,5.0
+South Korea,Cayman Islands,3.5
+South Korea,China,8.0
+South Korea,Cyprus,3.0
+South Korea,Hong Kong,46.0
+South Korea,Ireland,10.0
+South Korea,Latvia,6.0
+South Korea,Luxembourg,2.0
+South Korea,Mauritius,1.0
+South Korea,Netherlands,1.0
+South Korea,Panama,23.0
+South Korea,Russia,19.0
+South Korea,Saint Kitts and Nevis,2.0
+South Korea,Samoa,1.5
+South Korea,Seychelles,13.0
+South Korea,Singapore,1.0
+South Korea,Switzerland,1.0
+South Korea,United Arab Emirates,2.0
+South Korea,United Kingdom,49.0
+South Korea,United States,7.0
+Spain,Bahamas,326.0
+Spain,Barbados,26.0
+Spain,Bermuda,8.0
+Spain,British Anguilla,6.0
+Spain,British Virgin Islands,425.5
+Spain,Canada,3.0
+Spain,Cayman Islands,8.0
+Spain,China,5.0
+Spain,Cook Islands,2.0
+Spain,Cyprus,3.0
+Spain,Germany,1.0
+Spain,Hong Kong,14.5
+Spain,Ireland,4.0
+Spain,Jersey,3.0
+Spain,Nevada,16.0
+Spain,Niue,372.0
+Spain,Panama,1090.0
+Spain,Russia,6.0
+Spain,Saint Kitts and Nevis,6.0
+Spain,Samoa,76.0
+Spain,Seychelles,77.0
+Spain,Singapore,1.0
+Spain,Switzerland,2.0
+Spain,United Arab Emirates,1.0
+Spain,United Kingdom,13.0
+Spain,United States,6.0
+Spain,Uruguay,6.0
+Sri Lanka,British Virgin Islands,42.5
+Sri Lanka,Canada,2.0
+Sri Lanka,China,3.0
+Sri Lanka,Cyprus,2.0
+Sri Lanka,Hong Kong,6.0
+Sri Lanka,Jersey,2.0
+Sri Lanka,Latvia,2.0
+Sri Lanka,Panama,4.0
+Sri Lanka,Russia,8.0
+Sri Lanka,Saint Kitts and Nevis,1.0
+Sri Lanka,Seychelles,1.0
+Sri Lanka,Singapore,2.0
+Sri Lanka,United Kingdom,11.0
+Sri Lanka,United States,3.0
+Sudan,Panama,2.0
+Suriname,Barbados,4.0
+Suriname,British Virgin Islands,1.0
+Suriname,Panama,1.0
+Suriname,Saint Kitts and Nevis,1.0
+Sweden,Antigua and Barbuda,2.0
+Sweden,Bahamas,44.0
+Sweden,Barbados,2.0
+Sweden,Bermuda,34.0
+Sweden,British Virgin Islands,74.0
+Sweden,China,3.0
+Sweden,Cyprus,2.0
+Sweden,Hong Kong,21.0
+Sweden,Ireland,4.0
+Sweden,Jersey,1.0
+Sweden,Niue,6.0
+Sweden,Panama,20.0
+Sweden,Russia,9.0
+Sweden,Seychelles,4.0
+Sweden,Singapore,1.0
+Sweden,South Africa,1.0
+Sweden,Ukraine,1.0
+Sweden,United Arab Emirates,1.0
+Sweden,United Kingdom,9.0
+Sweden,United States,4.0
+Switzerland,Antigua and Barbuda,1.0
+Switzerland,Austria,1.0
+Switzerland,Bahamas,4254.0
+Switzerland,Barbados,16.0
+Switzerland,Belize,9.0
+Switzerland,Bermuda,192.0
+Switzerland,British Anguilla,192.0
+Switzerland,British Virgin Islands,39766.5
+Switzerland,Canada,9.0
+Switzerland,Cayman Islands,85.0
+Switzerland,China,14.0
+Switzerland,Cook Islands,6.0
+Switzerland,Croatia,1.0
+Switzerland,Cyprus,37.0
+Switzerland,Grenada,2.0
+Switzerland,Hong Kong,142.0
+Switzerland,Ireland,20.0
+Switzerland,Isle of Man,2.0
+Switzerland,Jersey,3.0
+Switzerland,Latvia,6.0
+Switzerland,Luxembourg,1.0
+Switzerland,Malta,3.0
+Switzerland,Mauritius,12.0
+Switzerland,Nevada,298.0
+Switzerland,Niue,4148.0
+Switzerland,Panama,23216.0
+Switzerland,Russia,46.0
+Switzerland,Saint Kitts and Nevis,2.0
+Switzerland,Samoa,1093.0
+Switzerland,Seychelles,3267.5
+Switzerland,Singapore,17.5
+Switzerland,United Arab Emirates,6.0
+Switzerland,United Kingdom,96.0
+Switzerland,United States,20.0
+Switzerland,Uruguay,4.0
+Syria,Bahamas,4.0
+Syria,British Virgin Islands,9.5
+Syria,China,1.0
+Syria,Hong Kong,1.0
+Syria,Panama,6.0
+Syria,Russia,1.0
+Syria,United Kingdom,2.0
+Syria,United States,1.0
+Taiwan,Antigua and Barbuda,51.0
+Taiwan,Australia,1.0
+Taiwan,Austria,18.0
+Taiwan,Bahamas,486.0
+Taiwan,Belarus,10.0
+Taiwan,Belize,31.0
+Taiwan,Bermuda,48.0
+Taiwan,British Anguilla,2.0
+Taiwan,British Virgin Islands,15735.0
+Taiwan,Canada,347.0
+Taiwan,Cayman Islands,48.0
+Taiwan,China,497.0
+Taiwan,Cook Islands,7.0
+Taiwan,Curaçao,8.0
+Taiwan,Cyprus,841.5
+Taiwan,Czech Republic,11.0
+Taiwan,France,1.0
+Taiwan,Georgia,1.0
+Taiwan,Germany,9.0
+Taiwan,Gibraltar,15.0
+Taiwan,Hong Kong,3723.0
+Taiwan,Ireland,736.0
+Taiwan,Israel,3.0
+Taiwan,Japan,2.0
+Taiwan,Jersey,70.0
+Taiwan,Kuwait,1.0
+Taiwan,Labuan,1.0
+Taiwan,Latvia,337.0
+Taiwan,Luxembourg,97.0
+Taiwan,Malaysia,3.5
+Taiwan,Malta,31.0
+Taiwan,Mauritius,28.5
+Taiwan,Mexico,1.0
+Taiwan,Netherlands,31.0
+Taiwan,Nevada,8.0
+Taiwan,Niue,464.0
+Taiwan,Panama,1749.5
+Taiwan,Russia,2662.0
+Taiwan,Saint Kitts and Nevis,260.0
+Taiwan,Samoa,558.5
+Taiwan,Serbia,1.0
+Taiwan,Seychelles,579.5
+Taiwan,Singapore,146.5
+Taiwan,South Africa,2.0
+Taiwan,Spain,2.0
+Taiwan,Sweden,12.0
+Taiwan,Switzerland,53.0
+Taiwan,Turks and Caicos Islands,7.0
+Taiwan,Ukraine,32.0
+Taiwan,United Arab Emirates,206.0
+Taiwan,United Kingdom,3858.0
+Taiwan,United States,1088.0
+Taiwan,Vanuatu,1.0
+Tajikistan,British Virgin Islands,1.0
+Tajikistan,Canada,1.0
+Tajikistan,Hong Kong,2.0
+Tajikistan,Saint Kitts and Nevis,1.0
+Tajikistan,United Kingdom,1.0
+Tanzania,British Virgin Islands,10.0
+Tanzania,Canada,1.0
+Tanzania,China,1.0
+Tanzania,Hong Kong,3.0
+Tanzania,Panama,3.0
+Tanzania,Russia,1.0
+Tanzania,United Arab Emirates,1.0
+Tanzania,United States,1.0
+Thailand,Bahamas,50.0
+Thailand,Belize,2.0
+Thailand,Bermuda,16.0
+Thailand,British Anguilla,6.0
+Thailand,British Virgin Islands,1863.5
+Thailand,Canada,14.0
+Thailand,Cayman Islands,7.0
+Thailand,China,17.0
+Thailand,Cook Islands,0.5
+Thailand,Cyprus,38.0
+Thailand,Czech Republic,2.0
+Thailand,Gibraltar,1.0
+Thailand,Hong Kong,161.0
+Thailand,Ireland,40.0
+Thailand,Japan,1.0
+Thailand,Jersey,5.0
+Thailand,Latvia,10.0
+Thailand,Luxembourg,4.0
+Thailand,Netherlands,3.0
+Thailand,Nevada,34.0
+Thailand,Niue,14.0
+Thailand,Panama,100.0
+Thailand,Philippines,1.0
+Thailand,Russia,115.0
+Thailand,Saint Kitts and Nevis,7.0
+Thailand,Samoa,35.0
+Thailand,Seychelles,530.0
+Thailand,Singapore,7.5
+Thailand,Sweden,2.0
+Thailand,Switzerland,1.0
+Thailand,Ukraine,1.0
+Thailand,United Arab Emirates,12.0
+Thailand,United Kingdom,184.0
+Thailand,United States,43.0
+Tonga,British Virgin Islands,10.0
+Tonga,Canada,1.0
+Tonga,China,1.0
+Tonga,Curaçao,1.0
+Tonga,Hong Kong,1.0
+Tonga,Panama,1.0
+Tonga,Russia,5.0
+Tonga,Saint Kitts and Nevis,1.0
+Tonga,United Arab Emirates,1.0
+Tonga,United Kingdom,4.0
+Trinidad and Tobago,Barbados,146.0
+Trinidad and Tobago,British Virgin Islands,12.0
+Trinidad and Tobago,Hong Kong,1.0
+Trinidad and Tobago,Panama,2.0
+Trinidad and Tobago,Russia,1.0
+Trinidad and Tobago,United Kingdom,1.0
+Tunisia,British Virgin Islands,6.0
+Tunisia,Panama,2.0
+Turkey,Bahamas,6.0
+Turkey,Bermuda,2.0
+Turkey,British Virgin Islands,169.5
+Turkey,Canada,3.0
+Turkey,China,4.0
+Turkey,Hong Kong,6.0
+Turkey,Ireland,2.0
+Turkey,Niue,12.0
+Turkey,Panama,41.0
+Turkey,Russia,6.0
+Turkey,Saint Kitts and Nevis,1.0
+Turkey,Samoa,2.0
+Turkey,Seychelles,5.0
+Turkey,United Kingdom,3.0
+Turkey,United States,2.0
+Turkmenistan,British Virgin Islands,9.0
+Turkmenistan,China,1.0
+Turkmenistan,Hong Kong,3.0
+Turkmenistan,Panama,2.0
+Turkmenistan,Russia,3.0
+Turkmenistan,United Kingdom,2.0
+Turks and Caicos Islands,Bahamas,10.0
+Turks and Caicos Islands,Barbados,96.0
+Turks and Caicos Islands,Bermuda,2.0
+Turks and Caicos Islands,British Virgin Islands,24.0
+Turks and Caicos Islands,Canada,1.0
+Turks and Caicos Islands,China,1.0
+Turks and Caicos Islands,Cook Islands,0.5
+Turks and Caicos Islands,Cyprus,2.0
+Turks and Caicos Islands,Hong Kong,4.0
+Turks and Caicos Islands,Ireland,2.0
+Turks and Caicos Islands,Luxembourg,1.0
+Turks and Caicos Islands,Panama,6.0
+Turks and Caicos Islands,Russia,6.0
+Turks and Caicos Islands,Saint Kitts and Nevis,1.0
+Turks and Caicos Islands,Seychelles,2.0
+Turks and Caicos Islands,Switzerland,1.0
+Turks and Caicos Islands,United Kingdom,3.0
+Turks and Caicos Islands,United States,2.0
+US Virgin Islands,Antigua and Barbuda,4.0
+US Virgin Islands,Bahamas,4.0
+US Virgin Islands,Barbados,6.0
+US Virgin Islands,Belize,1.0
+US Virgin Islands,British Virgin Islands,449.5
+US Virgin Islands,Canada,15.0
+US Virgin Islands,China,44.0
+US Virgin Islands,Croatia,1.0
+US Virgin Islands,Curaçao,1.0
+US Virgin Islands,Cyprus,29.0
+US Virgin Islands,Czech Republic,2.0
+US Virgin Islands,Hong Kong,134.0
+US Virgin Islands,Ireland,28.0
+US Virgin Islands,Jersey,2.0
+US Virgin Islands,Latvia,10.0
+US Virgin Islands,Luxembourg,1.0
+US Virgin Islands,Malta,1.0
+US Virgin Islands,Netherlands,1.0
+US Virgin Islands,Panama,49.0
+US Virgin Islands,Russia,93.0
+US Virgin Islands,Saint Kitts and Nevis,11.0
+US Virgin Islands,Samoa,3.0
+US Virgin Islands,Seychelles,11.0
+US Virgin Islands,Singapore,4.5
+US Virgin Islands,South Africa,1.0
+US Virgin Islands,Sweden,2.0
+US Virgin Islands,Switzerland,2.0
+US Virgin Islands,US Virgin Islands,2.0
+US Virgin Islands,United Arab Emirates,6.0
+US Virgin Islands,United Kingdom,126.0
+US Virgin Islands,United States,34.0
+Uganda,British Virgin Islands,2.0
+Ukraine,Antigua and Barbuda,1.0
+Ukraine,Bahamas,164.0
+Ukraine,Bermuda,6.0
+Ukraine,British Anguilla,2.0
+Ukraine,British Virgin Islands,422.5
+Ukraine,Canada,3.0
+Ukraine,China,19.0
+Ukraine,Cook Islands,0.5
+Ukraine,Cyprus,3.0
+Ukraine,Germany,1.0
+Ukraine,Hong Kong,30.0
+Ukraine,Ireland,8.0
+Ukraine,Jersey,1.0
+Ukraine,Latvia,1.0
+Ukraine,Luxembourg,1.0
+Ukraine,Niue,4.0
+Ukraine,Panama,80.0
+Ukraine,Russia,32.0
+Ukraine,Saint Kitts and Nevis,2.0
+Ukraine,Samoa,3.0
+Ukraine,Seychelles,15.5
+Ukraine,United Kingdom,35.0
+Ukraine,United States,8.0
+United Arab Emirates,Antigua and Barbuda,2.0
+United Arab Emirates,Australia,1.0
+United Arab Emirates,Bahamas,1296.0
+United Arab Emirates,Barbados,2.0
+United Arab Emirates,Belize,2.0
+United Arab Emirates,Bermuda,14.0
+United Arab Emirates,British Anguilla,484.0
+United Arab Emirates,British Virgin Islands,7374.0
+United Arab Emirates,Canada,11.0
+United Arab Emirates,Cayman Islands,18.0
+United Arab Emirates,China,38.0
+United Arab Emirates,Cook Islands,1.0
+United Arab Emirates,Cyprus,11.0
+United Arab Emirates,Czech Republic,1.0
+United Arab Emirates,Dubai,4.0
+United Arab Emirates,Gibraltar,1.0
+United Arab Emirates,Hong Kong,102.0
+United Arab Emirates,Ireland,22.0
+United Arab Emirates,Isle of Man,4.0
+United Arab Emirates,Jersey,1.0
+United Arab Emirates,Latvia,9.0
+United Arab Emirates,Luxembourg,2.0
+United Arab Emirates,Mauritius,2.0
+United Arab Emirates,Nevada,2.0
+United Arab Emirates,Niue,272.0
+United Arab Emirates,Panama,1870.0
+United Arab Emirates,Russia,68.0
+United Arab Emirates,Saint Kitts and Nevis,6.0
+United Arab Emirates,Saint Vincent and the Grenadines,4.0
+United Arab Emirates,Samoa,112.0
+United Arab Emirates,Seychelles,3505.5
+United Arab Emirates,Singapore,3.0
+United Arab Emirates,Sweden,2.0
+United Arab Emirates,Switzerland,3.0
+United Arab Emirates,Thailand,1.0
+United Arab Emirates,Ukraine,1.0
+United Arab Emirates,United Kingdom,87.0
+United Arab Emirates,United States,25.0
+United Kingdom,Antigua and Barbuda,2.0
+United Kingdom,Bahamas,2641.0
+United Kingdom,Barbados,280.0
+United Kingdom,Belize,8.0
+United Kingdom,Bermuda,432.0
+United Kingdom,British Anguilla,62.0
+United Kingdom,British Virgin Islands,11652.0
+United Kingdom,Canada,14.0
+United Kingdom,Cayman Islands,172.0
+United Kingdom,China,67.0
+United Kingdom,Cook Islands,2.5
+United Kingdom,Cyprus,40.0
+United Kingdom,Czech Republic,2.0
+United Kingdom,Grenada,2.0
+United Kingdom,Guernsey,16.0
+United Kingdom,Hong Kong,172.5
+United Kingdom,Ireland,46.0
+United Kingdom,Isle of Man,208.0
+United Kingdom,Israel,1.0
+United Kingdom,Jersey,15.0
+United Kingdom,Labuan,1.0
+United Kingdom,Latvia,7.0
+United Kingdom,Luxembourg,2.0
+United Kingdom,Malaysia,3.0
+United Kingdom,Malta,12.0
+United Kingdom,Mauritius,2.0
+United Kingdom,Mexico,1.0
+United Kingdom,Netherlands,1.0
+United Kingdom,Nevada,30.0
+United Kingdom,Niue,1482.0
+United Kingdom,Panama,3398.0
+United Kingdom,Russia,139.0
+United Kingdom,Saint Kitts and Nevis,10.0
+United Kingdom,Samoa,108.0
+United Kingdom,Seychelles,630.5
+United Kingdom,Singapore,19.0
+United Kingdom,State of Delaware,4.0
+United Kingdom,Sweden,2.0
+United Kingdom,Switzerland,2.0
+United Kingdom,Taiwan,1.0
+United Kingdom,Ukraine,1.0
+United Kingdom,United Arab Emirates,6.0
+United Kingdom,United States,55.0
+United Kingdom,Wyoming,2.0
+United States,Antigua and Barbuda,14.0
+United States,Austria,2.0
+United States,Bahamas,806.0
+United States,Barbados,490.0
+United States,Belarus,1.0
+United States,Belize,19.0
+United States,Bermuda,1758.0
+United States,British Anguilla,64.0
+United States,British Virgin Islands,6425.0
+United States,Canada,81.0
+United States,Cayman Islands,978.0
+United States,China,133.0
+United States,Cook Islands,81.0
+United States,Curaçao,2.0
+United States,Cyprus,184.0
+United States,Czech Republic,3.0
+United States,Germany,2.0
+United States,Gibraltar,5.0
+United States,Grenada,1.0
+United States,Hong Kong,983.5
+United States,Indonesia,2.0
+United States,Ireland,184.0
+United States,Isle of Man,54.0
+United States,Israel,4.0
+United States,Jersey,22.0
+United States,Kuwait,1.0
+United States,Labuan,3.5
+United States,Latvia,69.0
+United States,Luxembourg,20.0
+United States,Malaysia,7.0
+United States,Malta,7.0
+United States,Marshall Islands,1.5
+United States,Mauritius,16.0
+United States,Mexico,1.0
+United States,Netherlands,9.0
+United States,Nevada,192.0
+United States,New Zealand,3.0
+United States,Niue,172.0
+United States,Panama,1892.0
+United States,Russia,588.0
+United States,Saint Kitts and Nevis,81.0
+United States,Saint Lucia,1.5
+United States,Samoa,79.0
+United States,Seychelles,215.0
+United States,Singapore,48.5
+United States,South Africa,2.0
+United States,State of Delaware,124.0
+United States,Sweden,7.0
+United States,Switzerland,12.0
+United States,Taiwan,3.0
+United States,Turks and Caicos Islands,1.0
+United States,Ukraine,10.0
+United States,United Arab Emirates,47.0
+United States,United Kingdom,904.0
+United States,Vanuatu,2.5
+Uruguay,Bahamas,634.0
+Uruguay,Belize,9.0
+Uruguay,British Anguilla,134.0
+Uruguay,British Virgin Islands,2944.0
+Uruguay,China,1.0
+Uruguay,Costa Rica,16.0
+Uruguay,Cyprus,4.0
+Uruguay,Hong Kong,15.0
+Uruguay,Ireland,3.0
+Uruguay,Malta,2.0
+Uruguay,Nevada,136.0
+Uruguay,Niue,216.0
+Uruguay,Panama,5307.0
+Uruguay,Russia,1.0
+Uruguay,Saint Kitts and Nevis,2.0
+Uruguay,Samoa,18.0
+Uruguay,Seychelles,352.0
+Uruguay,United Kingdom,6.0
+Uruguay,United States,1.0
+Uruguay,Wyoming,14.0
+Uzbekistan,Belize,2.0
+Uzbekistan,British Virgin Islands,33.0
+Uzbekistan,China,4.0
+Uzbekistan,Hong Kong,9.0
+Uzbekistan,Ireland,1.0
+Uzbekistan,Panama,4.0
+Uzbekistan,Russia,6.0
+Uzbekistan,United Arab Emirates,1.0
+Uzbekistan,United Kingdom,6.0
+Uzbekistan,United States,2.0
+Vanuatu,Antigua and Barbuda,1.0
+Vanuatu,British Virgin Islands,41.0
+Vanuatu,Canada,1.0
+Vanuatu,China,4.0
+Vanuatu,Cook Islands,2.0
+Vanuatu,Hong Kong,9.0
+Vanuatu,Ireland,1.0
+Vanuatu,Panama,6.0
+Vanuatu,Russia,4.0
+Vanuatu,Seychelles,1.0
+Vanuatu,Singapore,1.0
+Vanuatu,United Kingdom,12.0
+Vanuatu,United States,5.0
+Venezuela,Antigua and Barbuda,1.0
+Venezuela,Bahamas,36.0
+Venezuela,Barbados,20.0
+Venezuela,Belize,16.0
+Venezuela,Bermuda,6.0
+Venezuela,British Anguilla,48.0
+Venezuela,British Virgin Islands,372.5
+Venezuela,Canada,6.0
+Venezuela,Cayman Islands,6.0
+Venezuela,China,8.0
+Venezuela,Cyprus,7.0
+Venezuela,Czech Republic,1.0
+Venezuela,Hong Kong,55.0
+Venezuela,Ireland,9.0
+Venezuela,Jersey,2.0
+Venezuela,Latvia,8.0
+Venezuela,Nevada,26.0
+Venezuela,Niue,6.0
+Venezuela,Panama,1064.0
+Venezuela,Russia,23.0
+Venezuela,Saint Kitts and Nevis,1.0
+Venezuela,Samoa,4.0
+Venezuela,Seychelles,50.0
+Venezuela,Singapore,2.0
+Venezuela,Sweden,1.0
+Venezuela,Switzerland,1.0
+Venezuela,Ukraine,1.0
+Venezuela,United Arab Emirates,2.0
+Venezuela,United Kingdom,45.0
+Venezuela,United States,13.0
+Venezuela,Uruguay,4.0
+Vietnam,Austria,1.0
+Vietnam,Bahamas,4.0
+Vietnam,British Virgin Islands,101.0
+Vietnam,Canada,1.0
+Vietnam,Cayman Islands,22.0
+Vietnam,China,4.0
+Vietnam,Cook Islands,2.0
+Vietnam,Cyprus,8.0
+Vietnam,Hong Kong,13.5
+Vietnam,Ireland,1.0
+Vietnam,Latvia,1.0
+Vietnam,Luxembourg,1.0
+Vietnam,Mauritius,3.0
+Vietnam,Panama,14.0
+Vietnam,Russia,13.0
+Vietnam,Saint Kitts and Nevis,1.0
+Vietnam,Seychelles,7.0
+Vietnam,Singapore,1.0
+Vietnam,Ukraine,1.0
+Vietnam,United Arab Emirates,1.0
+Vietnam,United Kingdom,25.0
+Vietnam,United States,8.0
+Yemen,Panama,2.0
+Zambia,British Virgin Islands,4.0
+Zimbabwe,British Virgin Islands,15.0
+Zimbabwe,Hong Kong,3.0
+Zimbabwe,Jersey,1.0
+Zimbabwe,Panama,6.0
+Zimbabwe,Russia,2.0
+Zimbabwe,United States,1.0
