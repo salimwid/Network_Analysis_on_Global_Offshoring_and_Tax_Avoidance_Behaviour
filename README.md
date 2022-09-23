@@ -2,13 +2,13 @@
 [Python] This project used network analytics methodologies to construct and analyse the global offshoring network contained in the Offshore Leaks papers.
 
 ### Models Deployed
-Spinglass, Leading Eigenvector,
+Community Detection (Spinglass and Leading Eigenvector), Random and Targeted Network Attacks, Chord Diagram
 
 ### Techniques Employed
 Exploratory Data Analysis, Feature Engineering, Data Visualization, Network Analysis, Distributed Network Disruption, Community Detection
 
 ### Tools Employed
-SMOTE, sklearn, TensorFlow, Keras, seaborn, plotly
+iGraph, sklearn, seaborn, plotly
 
 ### Context
 Financial offshoring activity is a worldwide phenomenon. While some of these activities are done under a legal context, many have been discovered to lean towards criminal activities such as money laundering, tax evasion and fraud. The tangible costs of these activities are colossal; it is estimated that countries worldwide lose over USD$4271 billion in tax each year due to tax evasion and abuse. Multinational corporations shifted more than USD$650 billion – about 40% of their profit – worth of profit into tax havens, while private tax evaders stored more than USD$10 trillion in financial assets offshore to avoid paying taxes. The social costs are also exigent, lower-income countries’ tax losses are equivalent to nearly 52% of their combined public health budget. <br>
@@ -22,18 +22,23 @@ The dataset was acquired from the ICIJ Panama Papers Offshore Leaks Database and
 
 The final dataset contains 196 countries or independent states with 338,124 unique edges and 5 relationship types that were weighted based on importance to the network. For this study, a directed network was adopted since identifying capital inflow and outflow between countries is key to understanding offshoring behaviours.
 
-### Chosen Model & Performance
-Four classification and 1 stacked models were explored to make the prediction: Logistic Regression, Random Forest, XGBoost, Neural Network and Stacked models. The selected performance metrics were ROC-AUC score as it is immune to bias due to size of test data and F1-score as it is robust against imbalanced dataset. Model hyperparameter tuning with Bayes Search CV and Grid Search CV were done to improve performance. <br>
-
-All models have better AUC score when compared to simple OLS, the baseline model. When over-sampling with SMOTE was applied to accommodate for imbalance dataset, all models had better F1 score except for Neural Network model. <br>
-
-The final model which was adopted was Random Forest (with SMOTE) which gave the most balanced score between its F1 and AUC score of 0.68 and 0.917 as compared to other models.
+### Chosen Model
+For community detection, spinglass and leading Eigenvector were chosen because they gave the most number of insightful clusters. Meanwhile, for network attacks and degradation, random and targeted attacks were simulated to understand how robust the network.
 <br>
 
-### Results & Business Impact
-Cost-benefit values were derived from the confusion matrix computed from the final model. As compared to the baseline expected revenue, which was based on average industry performance, the classification model will increase revenue by $17.74 per user. <br>
+### Insights & Impact
+Several interesting insights were found: <br>
+<li> In Latin America, most offshoring activities were in fact, onshoring, from this region into Panama. Panama was chosen as it was a territory which is “local, culturally similar, and socially-linked” to Central and South America.</li> <br><br> 
+<li> Top ranked territories were further classified into four metric-rank groups: Hub Territories (HT), Authority Territories (AT), Highly Active Territories (HAT) and Bridging Territories (BT).</li> <br><br>
+<li> Southeast Asian countries have a high weighted out-degree in no intermediary network. This suggests that most offshoring activities in these regions are done directly by private individuals.</li> <br><br>
+<li> The offshoring network is quite resilient to random edge attacks, it needs up to more than 40% of edges removed before it starts failing. This reflects the real world scenario where authorities spend a lot of resources to prosecute individuals and/or entities with minimal impact.</li><br><br>
+<li> When the typical tax haven territories (e.g: Caribbean) are removed, the remaining tax haven territories are: (a) highly active offshoring countries like United Kingdom and China; and (b) capital rich tax haven territories like Singapore and Ireland. Removal of these territories in the network is more effective than randomly removing edges as they are 'transit hub' for offshoring activities.</li> <br>
 
-The improvement could be attained from: (a) preventing churn by introducing targeted marketing campaigns and advertisements to high value pages; and (b) from increasing purchasing conversion by improving low value or leaky webpage.
+These findings highlight certain considerations for policymakers: <br>
+(1) Impose localised policy based on the region’s offshoring behaviours. <br>
+(2) Focus on highly active territories might be needed to disrupt the network. <br>
+(3) Tax haven territories should be differentiated between capital rich versus offshoring bases. <br>
+(4) Preventive policies should focus on cooperation and restraining activities between countries rather than targeting individuals.
 
 ### Collaborators
 Susan Koruthu <br>
