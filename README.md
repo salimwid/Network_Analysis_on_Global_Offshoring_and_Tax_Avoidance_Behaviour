@@ -28,10 +28,10 @@ For community detection, spinglass and leading Eigenvector were chosen because t
 
 ### Insights & Impact
 Several interesting insights were found: <br>
-<li> In Latin America, most offshoring activities were in fact, onshoring, from this region into Panama. Panama was chosen as it was a territory which is “local, culturally similar, and socially-linked” to Central and South America.</li> <br><br> 
-<li> Top ranked territories were further classified into four metric-rank groups: Hub Territories (HT), Authority Territories (AT), Highly Active Territories (HAT) and Bridging Territories (BT).</li> <br><br>
-<li> Southeast Asian countries have a high weighted out-degree in no intermediary network. This suggests that most offshoring activities in these regions are done directly by private individuals.</li> <br><br>
-<li> The offshoring network is quite resilient to random edge attacks, it needs up to more than 40% of edges removed before it starts failing. This reflects the real world scenario where authorities spend a lot of resources to prosecute individuals and/or entities with minimal impact.</li><br><br>
+<li> In Latin America, most offshoring activities were in fact, onshoring, from this region into Panama. Panama was chosen as it was a territory which is “local, culturally similar, and socially-linked” to Central and South America.</li> <br>
+<li> Top ranked territories were further classified into four metric-rank groups: Hub Territories (HT), Authority Territories (AT), Highly Active Territories (HAT) and Bridging Territories (BT).</li> <br>
+<li> Southeast Asian countries have a high weighted out-degree in no intermediary network. This suggests that most offshoring activities in these regions are done directly by private individuals.</li> <br>
+<li> The offshoring network is quite resilient to random edge attacks, it needs up to more than 40% of edges removed before it starts failing. This reflects the real world scenario where authorities spend a lot of resources to prosecute individuals and/or entities with minimal impact.</li><br>
 <li> When the typical tax haven territories (e.g: Caribbean) are removed, the remaining tax haven territories are: (a) highly active offshoring countries like United Kingdom and China; and (b) capital rich tax haven territories like Singapore and Ireland. Removal of these territories in the network is more effective than randomly removing edges as they are 'transit hub' for offshoring activities.</li> <br>
 
 These findings highlight certain considerations for policymakers: <br>
